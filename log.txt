@@ -1,0 +1,1735 @@
+D 21-04-14 20:02:09.901507 10040 enginecom.cpp:134: sal: true opening serial port COM7 : 115200,N,8,1,N
+D 21-04-14 20:02:14.061110 10040 enginecom.cpp:218: sendHello-> cfg: 1 - CRC: 61381 - NV: OK
+D 21-04-14 20:02:14.061110 10040 engconfig.cpp:1169: Computed CRC -> 61381 - Received CRC -> 61381
+D 21-04-14 20:02:14.066099 10040 enginecom.cpp:560: sendFyH->true
+D 21-04-14 20:02:14.071114 10040 enginecom.cpp:245: sendReady->true
+D 21-04-14 20:02:14.074099 10040 enginecom.cpp:158: deinitCOMPort
+D 21-04-14 20:08:55.645750 10040 enginecom.cpp:134: sal: true opening serial port COM7 : 115200,N,8,1,N
+D 21-04-14 20:08:55.652752 10040 enginecom.cpp:218: sendHello-> cfg: 1 - CRC: 61381 - NV: OK
+D 21-04-14 20:08:55.652752 10040 engconfig.cpp:1169: Computed CRC -> 61381 - Received CRC -> 61381
+D 21-04-14 20:08:55.662751 10040 enginecom.cpp:560: sendFyH->true
+D 21-04-14 20:08:55.666765 10040 enginecom.cpp:245: sendReady->true
+D 21-04-14 20:14:42.940440 14644 enginecom.cpp:134: sal: true opening serial port COM7 : 115200,N,8,1,N
+D 21-04-14 20:14:42.945439 14644 enginecom.cpp:218: sendHello-> cfg: 1 - CRC: 61381 - NV: OK
+D 21-04-14 20:14:42.945439 14644 engconfig.cpp:1169: Computed CRC -> 61381 - Received CRC -> 61381
+D 21-04-14 20:14:42.951439 14644 enginecom.cpp:560: sendFyH->true
+D 21-04-14 20:14:42.956454 14644 enginecom.cpp:245: sendReady->true
+D 21-04-14 20:14:42.961657 14644 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-14 20:14:42.994344 14644 accounting.cpp:218: sendBill()->true
+D 21-04-14 20:14:42.996346 14644 enginecom.cpp:158: deinitCOMPort
+D 21-04-14 20:17:21.843818 10172 enginecom.cpp:134: sal: true opening serial port COM7 : 115200,N,8,1,N
+D 21-04-14 20:17:21.850820 10172 enginecom.cpp:218: sendHello-> cfg: 1 - CRC: 61381 - NV: OK
+D 21-04-14 20:17:21.850820 10172 engconfig.cpp:1169: Computed CRC -> 61381 - Received CRC -> 61381
+D 21-04-14 20:17:21.857819 10172 enginecom.cpp:560: sendFyH->true
+D 21-04-14 20:17:21.861829 10172 enginecom.cpp:245: sendReady->true
+D 21-04-14 20:17:21.866831 10172 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-14 20:17:21.900247 10172 accounting.cpp:218: sendBill()->true
+D 21-04-14 20:17:21.902262 10172 enginecom.cpp:158: deinitCOMPort
+D 21-04-21 17:59:09.668276 6136 enginecom.cpp:134: sal: true opening serial port COM7 : 115200,N,8,1,N
+D 21-04-21 17:59:09.681310 6136 enginecom.cpp:218: sendHello-> cfg: 1 - CRC: 61381 - NV: OK
+D 21-04-21 17:59:09.681310 6136 engconfig.cpp:1169: Computed CRC -> 61381 - Received CRC -> 61381
+D 21-04-21 17:59:09.687310 6136 enginecom.cpp:560: sendFyH->true
+D 21-04-21 17:59:09.690297 6136 enginecom.cpp:245: sendReady->true
+D 21-04-21 18:02:08.835078 6136 enginecom.cpp:158: deinitCOMPort
+D 21-04-21 18:02:18.130951 6136 enginecom.cpp:134: sal: true opening serial port COM7 : 115200,N,8,1,N
+D 21-04-21 18:02:18.134949 6136 enginecom.cpp:218: sendHello-> cfg: 1 - CRC: 61381 - NV: OK
+D 21-04-21 18:02:18.134949 6136 engconfig.cpp:1169: Computed CRC -> 61381 - Received CRC -> 61381
+D 21-04-21 18:02:18.140948 6136 enginecom.cpp:560: sendFyH->true
+D 21-04-21 18:02:18.144949 6136 enginecom.cpp:245: sendReady->true
+D 21-04-21 18:02:28.390044 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:02:28.422042 6572 accounting.cpp:218: sendBill()->true
+D 21-04-21 18:02:28.428042 6572 accounting.cpp:116: sendCounter(0, 0, 1)->true
+D 21-04-21 18:02:28.432042 6572 accounting.cpp:116: sendCounter(1, 0, 1)->true
+D 21-04-21 18:02:28.432042 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:02:28.438057 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:02:28.442057 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:02:28.448055 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551615)->true
+D 21-04-21 18:02:30.448859 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:02:33.453858 6572 accounting.cpp:116: sendCounter(0, 0, 2)->true
+D 21-04-21 18:02:33.457874 6572 accounting.cpp:116: sendCounter(1, 0, 2)->true
+D 21-04-21 18:02:33.457874 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:02:33.463859 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:02:33.467859 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:02:33.473871 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551615)->true
+D 21-04-21 18:02:35.474878 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:02:38.479923 6572 accounting.cpp:116: sendCounter(0, 0, 3)->true
+D 21-04-21 18:02:38.485924 6572 accounting.cpp:116: sendCounter(1, 0, 3)->true
+D 21-04-21 18:02:38.485924 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:02:38.489923 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:02:38.495936 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:02:38.499923 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551614)->true
+D 21-04-21 18:02:40.500925 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:02:43.508935 6572 accounting.cpp:116: sendCounter(0, 0, 4)->true
+D 21-04-21 18:02:43.512923 6572 accounting.cpp:116: sendCounter(1, 0, 4)->true
+D 21-04-21 18:02:43.512923 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:02:43.518922 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:02:43.522923 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:02:43.528923 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551613)->true
+D 21-04-21 18:02:45.529936 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:02:48.535969 6572 accounting.cpp:116: sendCounter(0, 0, 5)->true
+D 21-04-21 18:02:48.541967 6572 accounting.cpp:116: sendCounter(1, 0, 5)->true
+D 21-04-21 18:02:48.541967 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:02:48.545967 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:02:48.551968 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:02:48.555970 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551613)->true
+D 21-04-21 18:02:50.556075 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:02:53.564074 6572 accounting.cpp:116: sendCounter(0, 0, 6)->true
+D 21-04-21 18:02:53.570076 6572 accounting.cpp:116: sendCounter(1, 0, 6)->true
+D 21-04-21 18:02:53.570076 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:02:53.576076 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:02:53.580074 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:02:53.586077 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551612)->true
+D 21-04-21 18:02:55.587088 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:02:58.591139 6572 accounting.cpp:116: sendCounter(0, 0, 7)->true
+D 21-04-21 18:02:58.598125 6572 accounting.cpp:116: sendCounter(1, 0, 7)->true
+D 21-04-21 18:02:58.598125 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:02:58.603139 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:02:58.608125 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:02:58.611126 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551612)->true
+D 21-04-21 18:03:00.612141 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:03:03.618483 6572 accounting.cpp:116: sendCounter(0, 0, 8)->true
+D 21-04-21 18:03:03.624494 6572 accounting.cpp:116: sendCounter(1, 0, 8)->true
+D 21-04-21 18:03:03.624494 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:03:03.628483 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:03:03.634497 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:03:03.638483 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551612)->true
+D 21-04-21 18:03:05.638815 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:03:08.645504 6572 accounting.cpp:116: sendCounter(0, 0, 9)->true
+D 21-04-21 18:03:08.651503 6572 accounting.cpp:116: sendCounter(1, 0, 9)->true
+D 21-04-21 18:03:08.651503 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:03:08.655503 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:03:08.661505 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:03:08.665503 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551611)->true
+D 21-04-21 18:03:10.666518 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:03:13.669503 6572 accounting.cpp:116: sendCounter(0, 0, 10)->true
+D 21-04-21 18:03:13.675518 6572 accounting.cpp:116: sendCounter(1, 0, 10)->true
+D 21-04-21 18:03:13.675518 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:03:13.679503 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:03:13.685516 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:03:13.689503 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551610)->true
+D 21-04-21 18:03:15.690516 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:03:18.697858 6572 accounting.cpp:116: sendCounter(0, 0, 11)->true
+D 21-04-21 18:03:18.702857 6572 accounting.cpp:116: sendCounter(1, 0, 11)->true
+D 21-04-21 18:03:18.702857 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:03:18.707867 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:03:18.712869 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:03:18.717855 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551609)->true
+D 21-04-21 18:03:20.718031 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:03:23.725017 6572 accounting.cpp:116: sendCounter(0, 0, 12)->true
+D 21-04-21 18:03:23.731017 6572 accounting.cpp:116: sendCounter(1, 0, 12)->true
+D 21-04-21 18:03:23.731017 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:03:23.735017 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:03:23.741018 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:03:23.745031 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551608)->true
+D 21-04-21 18:03:25.746029 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:03:28.755007 6572 accounting.cpp:116: sendCounter(0, 0, 13)->true
+D 21-04-21 18:03:28.758994 6572 accounting.cpp:116: sendCounter(1, 0, 13)->true
+D 21-04-21 18:03:28.758994 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:03:28.764994 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:03:28.768995 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:03:28.775009 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551607)->true
+D 21-04-21 18:03:30.775242 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:03:33.780567 6572 accounting.cpp:116: sendCounter(0, 0, 14)->true
+D 21-04-21 18:03:33.784568 6572 accounting.cpp:116: sendCounter(1, 0, 14)->true
+D 21-04-21 18:03:33.784568 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:03:33.790565 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:03:33.794565 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:03:33.800565 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551607)->true
+D 21-04-21 18:03:35.801565 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:03:38.809553 6572 accounting.cpp:116: sendCounter(0, 0, 15)->true
+D 21-04-21 18:03:38.814553 6572 accounting.cpp:116: sendCounter(1, 0, 15)->true
+D 21-04-21 18:03:38.814553 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:03:38.820565 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:03:38.823566 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:03:38.830565 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551606)->true
+D 21-04-21 18:03:40.831554 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:03:43.839553 6572 accounting.cpp:116: sendCounter(0, 0, 16)->true
+D 21-04-21 18:03:43.844567 6572 accounting.cpp:116: sendCounter(1, 0, 16)->true
+D 21-04-21 18:03:43.844567 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:03:43.849553 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:03:43.854565 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:03:43.859565 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551605)->true
+D 21-04-21 18:03:45.860565 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:03:48.868610 6572 accounting.cpp:116: sendCounter(0, 0, 17)->true
+D 21-04-21 18:03:48.873609 6572 accounting.cpp:116: sendCounter(1, 0, 17)->true
+D 21-04-21 18:03:48.873609 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:03:48.878612 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:03:48.883610 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:03:48.888612 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551604)->true
+D 21-04-21 18:03:50.889522 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:03:53.893522 6572 accounting.cpp:116: sendCounter(0, 0, 18)->true
+D 21-04-21 18:03:53.898524 6572 accounting.cpp:116: sendCounter(1, 0, 18)->true
+D 21-04-21 18:03:53.898524 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:03:53.903511 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:03:53.908509 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:03:53.913524 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551603)->true
+D 21-04-21 18:03:55.914636 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:03:58.919624 6572 accounting.cpp:116: sendCounter(0, 0, 19)->true
+D 21-04-21 18:03:58.925645 6572 accounting.cpp:116: sendCounter(1, 0, 19)->true
+D 21-04-21 18:03:58.925645 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:03:58.929624 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:03:58.934624 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:03:58.940635 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551603)->true
+D 21-04-21 18:04:00.941678 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:04:03.946933 6572 accounting.cpp:116: sendCounter(0, 0, 20)->true
+D 21-04-21 18:04:03.950917 6572 accounting.cpp:116: sendCounter(1, 0, 20)->true
+D 21-04-21 18:04:03.950917 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:04:03.956916 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:04:03.960916 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:04:03.966931 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551603)->true
+D 21-04-21 18:04:05.967917 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:04:08.975276 6572 accounting.cpp:116: sendCounter(0, 0, 21)->true
+D 21-04-21 18:04:08.978263 6572 accounting.cpp:116: sendCounter(1, 0, 21)->true
+D 21-04-21 18:04:08.978263 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:04:08.983276 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:04:08.990263 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:04:08.995276 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551602)->true
+D 21-04-21 18:04:10.996320 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:04:14.001326 6572 accounting.cpp:116: sendCounter(0, 0, 22)->true
+D 21-04-21 18:04:14.005309 6572 accounting.cpp:116: sendCounter(1, 0, 22)->true
+D 21-04-21 18:04:14.005309 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:04:14.011327 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:04:14.015310 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:04:14.021329 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551601)->true
+D 21-04-21 18:04:16.021525 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:04:19.028716 6572 accounting.cpp:116: sendCounter(0, 0, 23)->true
+D 21-04-21 18:04:19.032701 6572 accounting.cpp:116: sendCounter(1, 0, 23)->true
+D 21-04-21 18:04:19.032701 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:04:19.038713 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:04:19.042700 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:04:19.048713 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551600)->true
+D 21-04-21 18:04:21.049745 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:04:24.056745 6572 accounting.cpp:116: sendCounter(0, 0, 24)->true
+D 21-04-21 18:04:24.062747 6572 accounting.cpp:116: sendCounter(1, 0, 24)->true
+D 21-04-21 18:04:24.062747 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:04:24.066745 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:04:24.072747 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:04:24.076746 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551599)->true
+D 21-04-21 18:04:26.077745 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:04:29.084965 6572 accounting.cpp:116: sendCounter(0, 0, 25)->true
+D 21-04-21 18:04:29.087965 6572 accounting.cpp:116: sendCounter(1, 0, 25)->true
+D 21-04-21 18:04:29.087965 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:04:29.094967 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:04:29.099965 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:04:29.104967 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551598)->true
+D 21-04-21 18:04:31.105296 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:04:34.111457 6572 accounting.cpp:116: sendCounter(0, 0, 26)->true
+D 21-04-21 18:04:34.117469 6572 accounting.cpp:116: sendCounter(1, 0, 26)->true
+D 21-04-21 18:04:34.117469 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:04:34.121457 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:04:34.127469 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:04:34.131457 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551597)->true
+D 21-04-21 18:04:36.131988 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:04:39.136989 6572 accounting.cpp:116: sendCounter(0, 0, 27)->true
+D 21-04-21 18:04:39.143008 6572 accounting.cpp:116: sendCounter(1, 0, 27)->true
+D 21-04-21 18:04:39.143008 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:04:39.146987 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:04:39.153009 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:04:39.156988 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551596)->true
+D 21-04-21 18:04:41.158155 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:04:44.161045 6572 accounting.cpp:116: sendCounter(0, 0, 28)->true
+D 21-04-21 18:04:44.167066 6572 accounting.cpp:116: sendCounter(1, 0, 28)->true
+D 21-04-21 18:04:44.167066 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:04:44.171046 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:04:44.177067 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:04:44.181045 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551596)->true
+D 21-04-21 18:04:46.182053 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:04:49.187504 6572 accounting.cpp:116: sendCounter(0, 0, 29)->true
+D 21-04-21 18:04:49.192492 6572 accounting.cpp:116: sendCounter(1, 0, 29)->true
+D 21-04-21 18:04:49.192492 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:04:49.196491 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:04:49.202493 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:04:49.206504 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551596)->true
+D 21-04-21 18:04:51.207503 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:04:54.215742 6572 accounting.cpp:116: sendCounter(0, 0, 30)->true
+D 21-04-21 18:04:54.220739 6572 accounting.cpp:116: sendCounter(1, 0, 30)->true
+D 21-04-21 18:04:54.220739 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:04:54.226740 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:04:54.231739 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:04:54.236740 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551595)->true
+D 21-04-21 18:04:56.237208 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:04:59.240622 6572 accounting.cpp:116: sendCounter(0, 0, 31)->true
+D 21-04-21 18:04:59.245604 6572 accounting.cpp:116: sendCounter(1, 0, 31)->true
+D 21-04-21 18:04:59.245604 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:04:59.250624 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:04:59.255602 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:04:59.260613 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551595)->true
+D 21-04-21 18:05:01.261598 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:05:04.267598 6572 accounting.cpp:116: sendCounter(0, 0, 32)->true
+D 21-04-21 18:05:04.272598 6572 accounting.cpp:116: sendCounter(1, 0, 32)->true
+D 21-04-21 18:05:04.272598 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:05:04.279585 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:05:04.285277 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:05:04.287599 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551595)->true
+D 21-04-21 18:05:06.288679 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:05:09.293681 6572 accounting.cpp:116: sendCounter(0, 0, 33)->true
+D 21-04-21 18:05:09.297668 6572 accounting.cpp:116: sendCounter(1, 0, 33)->true
+D 21-04-21 18:05:09.297668 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:05:09.303666 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:05:09.307668 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:05:09.313666 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551594)->true
+D 21-04-21 18:05:11.314667 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:05:14.321666 6572 accounting.cpp:116: sendCounter(0, 0, 34)->true
+D 21-04-21 18:05:14.327667 6572 accounting.cpp:116: sendCounter(1, 0, 34)->true
+D 21-04-21 18:05:14.327667 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:05:14.331666 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:05:14.337667 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:05:14.341668 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551594)->true
+D 21-04-21 18:05:16.342679 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:05:19.350683 6572 accounting.cpp:116: sendCounter(0, 0, 35)->true
+D 21-04-21 18:05:19.354668 6572 accounting.cpp:116: sendCounter(1, 0, 35)->true
+D 21-04-21 18:05:19.354668 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:05:19.361505 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:05:19.365679 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:05:19.369668 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551594)->true
+D 21-04-21 18:05:21.370679 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:05:24.375666 6572 accounting.cpp:116: sendCounter(0, 0, 36)->true
+D 21-04-21 18:05:24.381667 6572 accounting.cpp:116: sendCounter(1, 0, 36)->true
+D 21-04-21 18:05:24.381667 6572 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:05:24.385667 6572 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:05:24.391667 6572 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:05:24.395667 6572 accounting.cpp:116: sendCounter(0, 12, 18446744073709551593)->true
+D 21-04-21 18:05:26.396667 6572 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:06:21.286339 15588 accounting.cpp:116: sendCounter(0, 0, 37)->true
+D 21-04-21 18:06:21.292340 15588 accounting.cpp:116: sendCounter(1, 0, 37)->true
+D 21-04-21 18:06:21.292340 15588 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:06:21.296347 15588 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:06:21.301343 15588 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:06:21.306339 15588 accounting.cpp:116: sendCounter(0, 12, 18446744073709551592)->true
+D 21-04-21 18:06:23.307375 15588 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:06:26.317437 15588 accounting.cpp:116: sendCounter(0, 0, 38)->true
+D 21-04-21 18:06:26.322448 15588 accounting.cpp:116: sendCounter(1, 0, 38)->true
+D 21-04-21 18:06:26.322448 15588 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:06:26.327443 15588 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:06:26.332438 15588 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:06:26.337437 15588 accounting.cpp:116: sendCounter(0, 12, 18446744073709551592)->true
+D 21-04-21 18:06:28.338439 15588 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:06:31.344633 15588 accounting.cpp:116: sendCounter(0, 0, 39)->true
+D 21-04-21 18:06:31.349251 15588 accounting.cpp:116: sendCounter(1, 0, 39)->true
+D 21-04-21 18:06:31.349622 15588 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:06:31.353621 15588 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:06:31.359621 15588 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:06:31.363621 15588 accounting.cpp:116: sendCounter(0, 12, 18446744073709551591)->true
+D 21-04-21 18:06:33.363854 15588 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:06:36.367107 15588 accounting.cpp:116: sendCounter(0, 0, 40)->true
+D 21-04-21 18:06:36.373095 15588 accounting.cpp:116: sendCounter(1, 0, 40)->true
+D 21-04-21 18:06:36.373095 15588 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:06:36.377108 15588 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:06:36.383093 15588 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:06:36.387092 15588 accounting.cpp:116: sendCounter(0, 12, 18446744073709551590)->true
+D 21-04-21 18:06:38.387694 15588 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:06:41.391859 15588 accounting.cpp:116: sendCounter(0, 0, 41)->true
+D 21-04-21 18:06:41.395847 15588 accounting.cpp:116: sendCounter(1, 0, 41)->true
+D 21-04-21 18:06:41.395847 15588 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:06:41.401860 15588 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:06:41.405847 15588 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:06:41.411850 15588 accounting.cpp:116: sendCounter(0, 12, 18446744073709551590)->true
+D 21-04-21 18:06:43.412008 15588 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:06:46.418041 15588 accounting.cpp:116: sendCounter(0, 0, 42)->true
+D 21-04-21 18:06:46.424041 15588 accounting.cpp:116: sendCounter(1, 0, 42)->true
+D 21-04-21 18:06:46.424041 15588 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:06:46.429061 15588 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:06:46.433041 15588 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:06:46.439041 15588 accounting.cpp:116: sendCounter(0, 12, 18446744073709551589)->true
+D 21-04-21 18:06:48.440125 15588 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:06:51.446159 15588 accounting.cpp:116: sendCounter(0, 0, 43)->true
+D 21-04-21 18:06:51.451146 15588 accounting.cpp:116: sendCounter(1, 0, 43)->true
+D 21-04-21 18:06:51.451146 15588 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:06:51.456159 15588 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:06:51.461146 15588 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:06:51.465293 15588 accounting.cpp:116: sendCounter(0, 12, 18446744073709551589)->true
+D 21-04-21 18:06:53.466160 15588 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:06:56.473156 15588 accounting.cpp:116: sendCounter(0, 0, 44)->true
+D 21-04-21 18:06:56.479160 15588 accounting.cpp:116: sendCounter(1, 0, 44)->true
+D 21-04-21 18:06:56.479160 15588 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:06:56.484145 15588 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:06:56.489145 15588 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:06:56.493146 15588 accounting.cpp:116: sendCounter(0, 12, 18446744073709551589)->true
+D 21-04-21 18:06:58.494145 15588 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:07:01.499325 15588 accounting.cpp:116: sendCounter(0, 0, 45)->true
+D 21-04-21 18:07:01.503314 15588 accounting.cpp:116: sendCounter(1, 0, 45)->true
+D 21-04-21 18:07:01.503314 15588 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:07:01.509312 15588 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:07:01.513313 15588 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:07:01.519327 15588 accounting.cpp:116: sendCounter(0, 12, 18446744073709551588)->true
+D 21-04-21 18:07:03.520349 15588 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:07:06.525336 15588 accounting.cpp:116: sendCounter(0, 0, 46)->true
+D 21-04-21 18:07:06.531335 15588 accounting.cpp:116: sendCounter(1, 0, 46)->true
+D 21-04-21 18:07:06.531335 15588 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:07:06.535334 15588 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:07:06.541481 15588 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:07:06.545334 15588 accounting.cpp:116: sendCounter(0, 12, 18446744073709551587)->true
+D 21-04-21 18:07:08.545645 15588 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:07:11.553427 15588 accounting.cpp:116: sendCounter(0, 0, 47)->true
+D 21-04-21 18:07:11.557414 15588 accounting.cpp:116: sendCounter(1, 0, 47)->true
+D 21-04-21 18:07:11.557414 15588 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:07:11.563415 15588 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:07:11.569416 15588 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:07:11.573427 15588 accounting.cpp:116: sendCounter(0, 12, 18446744073709551586)->true
+D 21-04-21 18:07:13.575304 15588 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:07:16.580722 15588 accounting.cpp:116: sendCounter(0, 0, 48)->true
+D 21-04-21 18:07:16.585722 15588 accounting.cpp:116: sendCounter(1, 0, 48)->true
+D 21-04-21 18:07:16.585722 15588 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:07:16.590722 15588 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:07:16.595722 15588 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:07:16.600722 15588 accounting.cpp:116: sendCounter(0, 12, 18446744073709551585)->true
+D 21-04-21 18:07:18.601722 15588 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:07:21.606899 15588 accounting.cpp:116: sendCounter(0, 0, 49)->true
+D 21-04-21 18:07:21.612896 15588 accounting.cpp:116: sendCounter(1, 0, 49)->true
+D 21-04-21 18:07:21.612896 15588 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:07:21.616896 15588 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:07:21.622909 15588 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:07:21.626897 15588 accounting.cpp:116: sendCounter(0, 12, 18446744073709551584)->true
+D 21-04-21 18:07:23.627162 15588 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:07:26.629282 15588 accounting.cpp:116: sendCounter(0, 0, 50)->true
+D 21-04-21 18:07:26.635294 15588 accounting.cpp:116: sendCounter(1, 0, 50)->true
+D 21-04-21 18:07:26.635294 15588 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:07:26.639281 15588 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:07:26.645281 15588 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:07:26.649281 15588 accounting.cpp:116: sendCounter(0, 12, 18446744073709551584)->true
+D 21-04-21 18:07:28.650348 15588 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:07:31.656384 15588 accounting.cpp:116: sendCounter(0, 0, 51)->true
+D 21-04-21 18:07:31.661384 15588 accounting.cpp:116: sendCounter(1, 0, 51)->true
+D 21-04-21 18:07:31.661384 15588 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:07:31.667384 15588 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:07:31.671371 15588 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:07:31.677383 15588 accounting.cpp:116: sendCounter(0, 12, 18446744073709551583)->true
+D 21-04-21 18:07:33.678478 15588 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:07:36.684516 15588 accounting.cpp:116: sendCounter(0, 0, 52)->true
+D 21-04-21 18:07:36.689530 15588 accounting.cpp:116: sendCounter(1, 0, 52)->true
+D 21-04-21 18:07:36.689530 15588 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:07:36.694516 15588 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:07:36.699516 15588 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:07:36.704516 15588 accounting.cpp:116: sendCounter(0, 12, 18446744073709551582)->true
+D 21-04-21 18:07:38.704767 15588 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:07:41.711942 15588 accounting.cpp:116: sendCounter(0, 0, 53)->true
+D 21-04-21 18:07:41.715930 15588 accounting.cpp:116: sendCounter(1, 0, 53)->true
+D 21-04-21 18:07:41.715930 15588 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:07:41.721945 15588 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:07:41.725930 15588 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:07:41.731945 15588 accounting.cpp:116: sendCounter(0, 12, 18446744073709551581)->true
+D 21-04-21 18:07:43.732945 15588 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:07:46.737997 15588 accounting.cpp:116: sendCounter(0, 0, 54)->true
+D 21-04-21 18:07:46.741984 15588 accounting.cpp:116: sendCounter(1, 0, 54)->true
+D 21-04-21 18:07:46.741984 15588 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:07:46.747997 15588 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:07:46.751984 15588 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:07:46.757999 15588 accounting.cpp:116: sendCounter(0, 12, 18446744073709551580)->true
+D 21-04-21 18:07:48.759055 15588 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:07:51.766305 15588 accounting.cpp:116: sendCounter(0, 0, 55)->true
+D 21-04-21 18:07:51.771303 15588 accounting.cpp:116: sendCounter(1, 0, 55)->true
+D 21-04-21 18:07:51.771303 15588 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:07:51.776305 15588 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:07:51.781302 15588 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:07:51.786302 15588 accounting.cpp:116: sendCounter(0, 12, 18446744073709551580)->true
+D 21-04-21 18:07:53.787340 15588 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:07:56.796438 15588 accounting.cpp:116: sendCounter(0, 0, 56)->true
+D 21-04-21 18:07:56.800445 15588 accounting.cpp:116: sendCounter(1, 0, 56)->true
+D 21-04-21 18:07:56.800445 15588 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:07:56.806439 15588 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:07:56.810438 15588 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:07:56.816438 15588 accounting.cpp:116: sendCounter(0, 12, 18446744073709551580)->true
+D 21-04-21 18:07:58.817496 15588 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:08:23.795151 6136 enginecom.cpp:158: deinitCOMPort
+D 21-04-21 18:22:53.044509 14024 enginecom.cpp:134: sal: true opening serial port COM7 : 115200,N,8,1,N
+D 21-04-21 18:22:53.046504 14024 enginecom.cpp:218: sendHello-> cfg: 1 - CRC: 61381 - NV: OK
+D 21-04-21 18:22:53.046504 14024 engconfig.cpp:1169: Computed CRC -> 61381 - Received CRC -> 61381
+D 21-04-21 18:22:53.053517 14024 enginecom.cpp:560: sendFyH->true
+D 21-04-21 18:22:53.056647 14024 enginecom.cpp:245: sendReady->true
+D 21-04-21 18:22:58.993503 14024 enginecom.cpp:679: protocolDebugger(true)->true
+D 21-04-21 18:23:03.767667 10396 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:23:03.801667 10396 accounting.cpp:218: sendBill()->true
+D 21-04-21 18:23:03.805653 10396 accounting.cpp:116: sendCounter(0, 0, 1)->true
+D 21-04-21 18:23:03.809667 10396 accounting.cpp:116: sendCounter(1, 0, 1)->true
+D 21-04-21 18:23:03.809667 10396 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:23:03.815653 10396 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:23:03.819654 10396 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:23:03.825653 10396 accounting.cpp:116: sendCounter(0, 12, 18446744073709551615)->true
+D 21-04-21 18:23:05.826645 10396 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:23:08.833645 10396 accounting.cpp:116: sendCounter(0, 0, 2)->true
+D 21-04-21 18:23:08.839657 10396 accounting.cpp:116: sendCounter(1, 0, 2)->true
+D 21-04-21 18:23:08.839657 10396 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:23:08.843645 10396 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:23:08.849645 10396 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:23:08.853644 10396 accounting.cpp:116: sendCounter(0, 12, 18446744073709551615)->true
+D 21-04-21 18:23:10.854644 10396 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:23:13.857975 10396 accounting.cpp:116: sendCounter(0, 0, 3)->true
+D 21-04-21 18:23:13.862961 10396 accounting.cpp:116: sendCounter(1, 0, 3)->true
+D 21-04-21 18:23:13.862961 10396 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:23:13.867976 10396 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:23:13.873974 10396 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:23:13.877965 10396 accounting.cpp:116: sendCounter(0, 12, 18446744073709551614)->true
+D 21-04-21 18:23:15.878976 10396 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:23:18.885036 10396 accounting.cpp:116: sendCounter(0, 0, 4)->true
+D 21-04-21 18:23:18.890046 10396 accounting.cpp:116: sendCounter(1, 0, 4)->true
+D 21-04-21 18:23:18.890046 10396 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:23:18.895049 10396 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:23:18.900036 10396 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:23:18.905035 10396 accounting.cpp:116: sendCounter(0, 12, 18446744073709551613)->true
+D 21-04-21 18:23:20.906079 10396 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:23:23.910224 10396 accounting.cpp:116: sendCounter(0, 0, 5)->true
+D 21-04-21 18:23:23.916079 10396 accounting.cpp:116: sendCounter(1, 0, 5)->true
+D 21-04-21 18:23:23.916079 10396 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:23:23.920079 10396 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:23:23.925079 10396 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:23:23.931079 10396 accounting.cpp:116: sendCounter(0, 12, 18446744073709551613)->true
+D 21-04-21 18:23:25.932132 10396 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:23:28.939139 10396 accounting.cpp:116: sendCounter(0, 0, 6)->true
+D 21-04-21 18:23:28.943117 10396 accounting.cpp:116: sendCounter(1, 0, 6)->true
+D 21-04-21 18:23:28.943117 10396 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:23:28.949119 10396 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:23:28.953119 10396 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:23:28.959130 10396 accounting.cpp:116: sendCounter(0, 12, 18446744073709551612)->true
+D 21-04-21 18:23:30.960118 10396 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:23:33.964402 10396 accounting.cpp:116: sendCounter(0, 0, 7)->true
+D 21-04-21 18:23:33.970403 10396 accounting.cpp:116: sendCounter(1, 0, 7)->true
+D 21-04-21 18:23:33.970403 10396 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:23:33.974403 10396 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:23:33.980403 10396 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:23:33.984406 10396 accounting.cpp:116: sendCounter(0, 12, 18446744073709551612)->true
+D 21-04-21 18:23:35.985424 10396 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:23:38.988450 10396 accounting.cpp:116: sendCounter(0, 0, 8)->true
+D 21-04-21 18:23:38.994450 10396 accounting.cpp:116: sendCounter(1, 0, 8)->true
+D 21-04-21 18:23:38.994450 10396 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:23:39.000450 10396 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:23:39.004450 10396 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:23:39.008450 10396 accounting.cpp:116: sendCounter(0, 12, 18446744073709551612)->true
+D 21-04-21 18:23:41.009462 10396 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:23:44.015741 10396 accounting.cpp:116: sendCounter(0, 0, 9)->true
+D 21-04-21 18:23:44.020743 10396 accounting.cpp:116: sendCounter(1, 0, 9)->true
+D 21-04-21 18:23:44.020743 10396 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:23:44.025742 10396 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:23:44.032755 10396 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:23:44.037740 10396 accounting.cpp:116: sendCounter(0, 12, 18446744073709551611)->true
+D 21-04-21 18:23:46.038740 10396 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:23:49.044543 10396 accounting.cpp:116: sendCounter(0, 0, 10)->true
+D 21-04-21 18:23:49.049531 10396 accounting.cpp:116: sendCounter(1, 0, 10)->true
+D 21-04-21 18:23:49.049531 10396 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:23:49.055543 10396 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:23:49.059531 10396 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:23:49.063538 10396 accounting.cpp:116: sendCounter(0, 12, 18446744073709551610)->true
+D 21-04-21 18:23:51.065576 10396 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:23:54.069838 10396 accounting.cpp:116: sendCounter(0, 0, 11)->true
+D 21-04-21 18:23:54.073836 10396 accounting.cpp:116: sendCounter(1, 0, 11)->true
+D 21-04-21 18:23:54.073836 10396 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:23:54.079837 10396 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:23:54.083835 10396 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:23:54.089835 10396 accounting.cpp:116: sendCounter(0, 12, 18446744073709551609)->true
+D 21-04-21 18:23:56.090850 10396 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:23:59.095887 10396 accounting.cpp:116: sendCounter(0, 0, 12)->true
+D 21-04-21 18:23:59.100875 10396 accounting.cpp:116: sendCounter(1, 0, 12)->true
+D 21-04-21 18:23:59.100875 10396 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:23:59.104875 10396 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:23:59.110874 10396 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:23:59.114875 10396 accounting.cpp:116: sendCounter(0, 12, 18446744073709551608)->true
+D 21-04-21 18:24:01.115875 10396 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:24:04.120070 10396 accounting.cpp:116: sendCounter(0, 0, 13)->true
+D 21-04-21 18:24:04.124058 10396 accounting.cpp:116: sendCounter(1, 0, 13)->true
+D 21-04-21 18:24:04.124058 10396 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:24:04.130071 10396 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:24:04.134058 10396 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:24:04.140072 10396 accounting.cpp:116: sendCounter(0, 12, 18446744073709551607)->true
+D 21-04-21 18:24:06.140282 10396 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:24:09.148338 10396 accounting.cpp:116: sendCounter(0, 0, 14)->true
+D 21-04-21 18:24:09.153338 10396 accounting.cpp:116: sendCounter(1, 0, 14)->true
+D 21-04-21 18:24:09.153338 10396 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:24:09.158326 10396 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:24:09.163341 10396 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:24:09.168327 10396 accounting.cpp:116: sendCounter(0, 12, 18446744073709551607)->true
+D 21-04-21 18:24:11.168571 10396 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:24:14.171603 10396 accounting.cpp:116: sendCounter(0, 0, 15)->true
+D 21-04-21 18:24:14.177618 10396 accounting.cpp:116: sendCounter(1, 0, 15)->true
+D 21-04-21 18:24:14.177618 10396 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:24:14.181604 10396 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:24:14.187618 10396 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:24:14.191604 10396 accounting.cpp:116: sendCounter(0, 12, 18446744073709551606)->true
+D 21-04-21 18:24:16.192649 10396 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:24:19.195649 10396 accounting.cpp:116: sendCounter(0, 0, 16)->true
+D 21-04-21 18:24:19.201663 10396 accounting.cpp:116: sendCounter(1, 0, 16)->true
+D 21-04-21 18:24:19.201663 10396 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:24:19.207660 10396 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:24:19.211649 10396 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:24:19.217649 10396 accounting.cpp:116: sendCounter(0, 12, 18446744073709551605)->true
+D 21-04-21 18:24:21.218660 10396 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:24:24.224887 10396 accounting.cpp:116: sendCounter(0, 0, 17)->true
+D 21-04-21 18:24:24.230888 10396 accounting.cpp:116: sendCounter(1, 0, 17)->true
+D 21-04-21 18:24:24.230888 10396 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:24:24.234886 10396 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:24:24.240899 10396 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:24:24.244886 10396 accounting.cpp:116: sendCounter(0, 12, 18446744073709551604)->true
+D 21-04-21 18:24:26.245937 10396 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:24:29.252241 10396 accounting.cpp:116: sendCounter(0, 0, 18)->true
+D 21-04-21 18:24:29.256240 10396 accounting.cpp:116: sendCounter(1, 0, 18)->true
+D 21-04-21 18:24:29.256240 10396 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:24:29.262241 10396 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:24:29.266241 10396 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:24:29.272241 10396 accounting.cpp:116: sendCounter(0, 12, 18446744073709551603)->true
+D 21-04-21 18:24:31.273254 10396 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:24:34.278241 10396 accounting.cpp:116: sendCounter(0, 0, 19)->true
+D 21-04-21 18:24:34.284252 10396 accounting.cpp:116: sendCounter(1, 0, 19)->true
+D 21-04-21 18:24:34.284252 10396 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:24:34.290254 10396 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:24:34.294241 10396 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:24:34.298239 10396 accounting.cpp:116: sendCounter(0, 12, 18446744073709551603)->true
+D 21-04-21 18:24:36.299287 10396 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:24:39.304324 10396 accounting.cpp:116: sendCounter(0, 0, 20)->true
+D 21-04-21 18:24:39.310335 10396 accounting.cpp:116: sendCounter(1, 0, 20)->true
+D 21-04-21 18:24:39.310335 10396 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:24:39.316324 10396 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:24:39.320324 10396 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:24:39.324323 10396 accounting.cpp:116: sendCounter(0, 12, 18446744073709551603)->true
+D 21-04-21 18:24:41.325335 10396 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:24:44.328376 10396 accounting.cpp:116: sendCounter(0, 0, 21)->true
+D 21-04-21 18:24:44.334388 10396 accounting.cpp:116: sendCounter(1, 0, 21)->true
+D 21-04-21 18:24:44.334388 10396 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:24:44.340392 10396 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:24:44.344376 10396 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:24:44.348375 10396 accounting.cpp:116: sendCounter(0, 12, 18446744073709551602)->true
+D 21-04-21 18:24:46.349421 10396 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:24:49.355433 10396 accounting.cpp:116: sendCounter(0, 0, 22)->true
+D 21-04-21 18:24:49.359420 10396 accounting.cpp:116: sendCounter(1, 0, 22)->true
+D 21-04-21 18:24:49.359420 10396 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:24:49.365421 10396 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:24:49.369421 10396 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:24:49.375422 10396 accounting.cpp:116: sendCounter(0, 12, 18446744073709551601)->true
+D 21-04-21 18:24:51.375611 10396 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:24:54.379657 10396 accounting.cpp:116: sendCounter(0, 0, 23)->true
+D 21-04-21 18:24:54.385658 10396 accounting.cpp:116: sendCounter(1, 0, 23)->true
+D 21-04-21 18:24:54.385658 10396 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:24:54.391644 10396 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:24:54.395659 10396 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:24:54.399661 10396 accounting.cpp:116: sendCounter(0, 12, 18446744073709551600)->true
+D 21-04-21 18:24:56.399768 10396 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:24:59.407645 10396 accounting.cpp:116: sendCounter(0, 0, 24)->true
+D 21-04-21 18:24:59.412765 10396 accounting.cpp:116: sendCounter(1, 0, 24)->true
+D 21-04-21 18:24:59.412765 10396 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:24:59.417657 10396 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:24:59.422657 10396 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:24:59.428656 10396 accounting.cpp:116: sendCounter(0, 12, 18446744073709551599)->true
+D 21-04-21 18:25:01.429644 10396 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:25:04.437706 10396 accounting.cpp:116: sendCounter(0, 0, 25)->true
+D 21-04-21 18:25:04.441706 10396 accounting.cpp:116: sendCounter(1, 0, 25)->true
+D 21-04-21 18:25:04.441706 10396 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:25:04.446704 10396 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:25:04.451704 10396 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:25:04.458706 10396 accounting.cpp:116: sendCounter(0, 12, 18446744073709551598)->true
+D 21-04-21 18:25:06.459751 10396 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:25:09.466782 10396 accounting.cpp:116: sendCounter(0, 0, 26)->true
+D 21-04-21 18:25:09.470783 10396 accounting.cpp:116: sendCounter(1, 0, 26)->true
+D 21-04-21 18:25:09.470783 10396 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:25:09.476794 10396 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:25:09.480783 10396 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:25:09.486794 10396 accounting.cpp:116: sendCounter(0, 12, 18446744073709551597)->true
+D 21-04-21 18:25:11.487782 10396 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:25:24.177782 14024 enginecom.cpp:679: protocolDebugger(false)->true
+D 21-04-21 18:25:26.548796 14024 enginecom.cpp:679: protocolDebugger(true)->true
+D 21-04-21 18:25:29.300841 14024 enginecom.cpp:158: deinitCOMPort
+D 21-04-21 18:25:35.293911 14024 enginecom.cpp:679: protocolDebugger(false)->false
+D 21-04-21 18:25:38.744897 14024 enginecom.cpp:679: protocolDebugger(true)->false
+D 21-04-21 18:26:04.083277 14024 enginecom.cpp:134: sal: true opening serial port COM7 : 115200,N,8,1,N
+D 21-04-21 18:26:04.086279 14024 enginecom.cpp:218: sendHello-> cfg: 1 - CRC: 61381 - NV: OK
+D 21-04-21 18:26:04.086279 14024 engconfig.cpp:1169: Computed CRC -> 61381 - Received CRC -> 61381
+D 21-04-21 18:26:04.092297 14024 enginecom.cpp:560: sendFyH->true
+D 21-04-21 18:26:04.096277 14024 enginecom.cpp:245: sendReady->true
+D 21-04-21 18:26:16.566351 17592 accounting.cpp:116: sendCounter(0, 0, 27)->true
+D 21-04-21 18:26:16.570350 17592 accounting.cpp:116: sendCounter(1, 0, 27)->true
+D 21-04-21 18:26:16.570350 17592 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:26:16.576350 17592 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:26:16.580350 17592 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:26:16.586350 17592 accounting.cpp:116: sendCounter(0, 12, 18446744073709551596)->true
+D 21-04-21 18:26:18.587349 17592 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:26:21.593457 17592 accounting.cpp:116: sendCounter(0, 0, 28)->true
+D 21-04-21 18:26:21.598457 17592 accounting.cpp:116: sendCounter(1, 0, 28)->true
+D 21-04-21 18:26:21.598457 17592 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:26:21.602457 17592 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:26:21.607456 17592 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:26:21.613457 17592 accounting.cpp:116: sendCounter(0, 12, 18446744073709551596)->true
+D 21-04-21 18:26:23.614456 17592 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:26:35.578694 14024 enginecom.cpp:158: deinitCOMPort
+D 21-04-21 18:27:42.926796 14024 enginecom.cpp:158: deinitCOMPort
+D 21-04-21 18:28:38.896709 14024 enginecom.cpp:134: sal: true opening serial port COM7 : 115200,N,8,1,N
+D 21-04-21 18:28:38.903698 14024 enginecom.cpp:218: sendHello-> cfg: 1 - CRC: 61381 - NV: OK
+D 21-04-21 18:28:38.903698 14024 engconfig.cpp:1169: Computed CRC -> 61381 - Received CRC -> 61381
+D 21-04-21 18:28:38.910714 14024 enginecom.cpp:560: sendFyH->true
+D 21-04-21 18:28:38.912902 14024 enginecom.cpp:245: sendReady->true
+D 21-04-21 18:30:07.406798 7668 accounting.cpp:116: sendCounter(0, 0, 29)->true
+D 21-04-21 18:30:07.411803 7668 accounting.cpp:116: sendCounter(1, 0, 29)->true
+D 21-04-21 18:30:07.411803 7668 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:30:07.417799 7668 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:30:07.421802 7668 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:30:07.425799 7668 accounting.cpp:116: sendCounter(0, 12, 18446744073709551595)->true
+D 21-04-21 18:30:09.427801 7668 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:30:12.432078 7668 accounting.cpp:116: sendCounter(0, 0, 30)->true
+D 21-04-21 18:30:12.436077 7668 accounting.cpp:116: sendCounter(1, 0, 30)->true
+D 21-04-21 18:30:12.436077 7668 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:30:12.442078 7668 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:30:12.446077 7668 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:30:12.452076 7668 accounting.cpp:116: sendCounter(0, 12, 18446744073709551595)->true
+D 21-04-21 18:30:14.453088 7668 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:30:17.461180 7668 accounting.cpp:116: sendCounter(0, 0, 31)->true
+D 21-04-21 18:30:17.465182 7668 accounting.cpp:116: sendCounter(1, 0, 31)->true
+D 21-04-21 18:30:17.465182 7668 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:30:17.470181 7668 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:30:17.476181 7668 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:30:17.480180 7668 accounting.cpp:116: sendCounter(0, 12, 18446744073709551594)->true
+D 21-04-21 18:30:19.481221 7668 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:30:22.488447 7668 accounting.cpp:116: sendCounter(0, 0, 32)->true
+D 21-04-21 18:30:22.493460 7668 accounting.cpp:116: sendCounter(1, 0, 32)->true
+D 21-04-21 18:30:22.493460 7668 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:30:22.498447 7668 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:30:22.504062 7668 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:30:22.508460 7668 accounting.cpp:116: sendCounter(0, 12, 18446744073709551593)->true
+D 21-04-21 18:30:24.509502 7668 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:30:27.514491 7668 accounting.cpp:116: sendCounter(0, 0, 33)->true
+D 21-04-21 18:30:27.518492 7668 accounting.cpp:116: sendCounter(1, 0, 33)->true
+D 21-04-21 18:30:27.518492 7668 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:30:27.523491 7668 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:30:27.528490 7668 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:30:27.533491 7668 accounting.cpp:116: sendCounter(0, 12, 18446744073709551593)->true
+D 21-04-21 18:30:29.534503 7668 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:31:35.695918 18180 accounting.cpp:116: sendCounter(0, 0, 34)->true
+D 21-04-21 18:31:35.701917 18180 accounting.cpp:116: sendCounter(1, 0, 34)->true
+D 21-04-21 18:31:35.701917 18180 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:31:35.705918 18180 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:31:35.711921 18180 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:31:35.715921 18180 accounting.cpp:116: sendCounter(0, 12, 18446744073709551592)->true
+D 21-04-21 18:31:37.716919 18180 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:31:40.723918 18180 accounting.cpp:116: sendCounter(0, 0, 35)->true
+D 21-04-21 18:31:40.729919 18180 accounting.cpp:116: sendCounter(1, 0, 35)->true
+D 21-04-21 18:31:40.729919 18180 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:31:40.733918 18180 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:31:40.739917 18180 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:31:40.743918 18180 accounting.cpp:116: sendCounter(0, 12, 18446744073709551592)->true
+D 21-04-21 18:31:42.744919 18180 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:43:54.467915 14024 enginecom.cpp:158: deinitCOMPort
+D 21-04-21 18:46:49.745816 15832 enginecom.cpp:134: sal: true opening serial port COM7 : 115200,N,8,1,N
+D 21-04-21 18:46:49.750818 15832 enginecom.cpp:218: sendHello-> cfg: 1 - CRC: 61381 - NV: OK
+D 21-04-21 18:46:49.750818 15832 engconfig.cpp:1169: Computed CRC -> 61381 - Received CRC -> 61381
+D 21-04-21 18:46:49.756816 15832 enginecom.cpp:560: sendFyH->true
+D 21-04-21 18:46:49.760816 15832 enginecom.cpp:245: sendReady->true
+D 21-04-21 18:47:14.387972 15832 enginecom.cpp:679: protocolDebugger(true)->true
+D 21-04-21 18:55:40.331512 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:55:40.365511 19232 accounting.cpp:218: sendBill()->true
+D 21-04-21 18:55:40.370511 19232 accounting.cpp:116: sendCounter(0, 0, 1)->true
+D 21-04-21 18:55:40.374510 19232 accounting.cpp:116: sendCounter(1, 0, 1)->true
+D 21-04-21 18:55:40.374510 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:55:40.381513 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:55:40.385511 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:55:40.391511 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551615)->true
+D 21-04-21 18:55:42.392511 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:55:45.399517 19232 accounting.cpp:116: sendCounter(0, 0, 2)->true
+D 21-04-21 18:55:45.403510 19232 accounting.cpp:116: sendCounter(1, 0, 2)->true
+D 21-04-21 18:55:45.403510 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:55:45.409510 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:55:45.413510 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:55:45.419510 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551615)->true
+D 21-04-21 18:55:47.420510 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:55:50.425510 19232 accounting.cpp:116: sendCounter(0, 0, 3)->true
+D 21-04-21 18:55:50.431510 19232 accounting.cpp:116: sendCounter(1, 0, 3)->true
+D 21-04-21 18:55:50.431510 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:55:50.435511 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:55:50.441509 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:55:50.445510 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551614)->true
+D 21-04-21 18:55:52.446510 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:55:55.453513 19232 accounting.cpp:116: sendCounter(0, 0, 4)->true
+D 21-04-21 18:55:55.457513 19232 accounting.cpp:116: sendCounter(1, 0, 4)->true
+D 21-04-21 18:55:55.457513 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:55:55.463509 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:55:55.467509 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:55:55.473510 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551613)->true
+D 21-04-21 18:55:57.474509 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:56:00.479512 19232 accounting.cpp:116: sendCounter(0, 0, 5)->true
+D 21-04-21 18:56:00.485515 19232 accounting.cpp:116: sendCounter(1, 0, 5)->true
+D 21-04-21 18:56:00.485515 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:56:00.489510 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:56:00.495511 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:56:00.499511 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551613)->true
+D 21-04-21 18:56:02.500512 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:56:05.505510 19232 accounting.cpp:116: sendCounter(0, 0, 6)->true
+D 21-04-21 18:56:05.511509 19232 accounting.cpp:116: sendCounter(1, 0, 6)->true
+D 21-04-21 18:56:05.511509 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:56:05.515510 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:56:05.521510 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:56:05.525510 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551612)->true
+D 21-04-21 18:56:07.526509 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:56:10.529510 19232 accounting.cpp:116: sendCounter(0, 0, 7)->true
+D 21-04-21 18:56:10.535510 19232 accounting.cpp:116: sendCounter(1, 0, 7)->true
+D 21-04-21 18:56:10.535510 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:56:10.539509 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:56:10.545509 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:56:10.549517 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551612)->true
+D 21-04-21 18:56:12.550510 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:56:15.558510 19232 accounting.cpp:116: sendCounter(0, 0, 8)->true
+D 21-04-21 18:56:15.562509 19232 accounting.cpp:116: sendCounter(1, 0, 8)->true
+D 21-04-21 18:56:15.562509 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:56:15.568511 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:56:15.572509 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:56:15.578514 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551612)->true
+D 21-04-21 18:56:17.579202 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:56:20.584199 19232 accounting.cpp:116: sendCounter(0, 0, 9)->true
+D 21-04-21 18:56:20.590199 19232 accounting.cpp:116: sendCounter(1, 0, 9)->true
+D 21-04-21 18:56:20.590199 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:56:20.596199 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:56:20.600199 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:56:20.606203 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551611)->true
+D 21-04-21 18:56:22.607199 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:56:25.612235 19232 accounting.cpp:116: sendCounter(0, 0, 10)->true
+D 21-04-21 18:56:25.618235 19232 accounting.cpp:116: sendCounter(1, 0, 10)->true
+D 21-04-21 18:56:25.618235 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:56:25.622235 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:56:25.628234 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:56:25.632238 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551610)->true
+D 21-04-21 18:56:27.633248 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:56:30.636233 19232 accounting.cpp:116: sendCounter(0, 0, 11)->true
+D 21-04-21 18:56:30.642235 19232 accounting.cpp:116: sendCounter(1, 0, 11)->true
+D 21-04-21 18:56:30.642235 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:56:30.646233 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:56:30.652237 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:56:30.656235 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551609)->true
+D 21-04-21 18:56:32.657235 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:56:35.664234 19232 accounting.cpp:116: sendCounter(0, 0, 12)->true
+D 21-04-21 18:56:35.668234 19232 accounting.cpp:116: sendCounter(1, 0, 12)->true
+D 21-04-21 18:56:35.668234 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:56:35.674234 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:56:35.678238 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:56:35.684234 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551608)->true
+D 21-04-21 18:56:37.685248 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:56:40.690234 19232 accounting.cpp:116: sendCounter(0, 0, 13)->true
+D 21-04-21 18:56:40.694238 19232 accounting.cpp:116: sendCounter(1, 0, 13)->true
+D 21-04-21 18:56:40.694238 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:56:40.700236 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:56:40.704235 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:56:40.710234 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551607)->true
+D 21-04-21 18:56:42.711248 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:56:45.717233 19232 accounting.cpp:116: sendCounter(0, 0, 14)->true
+D 21-04-21 18:56:45.723234 19232 accounting.cpp:116: sendCounter(1, 0, 14)->true
+D 21-04-21 18:56:45.723234 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:56:45.727234 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:56:45.733248 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:56:45.737235 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551607)->true
+D 21-04-21 18:56:47.738234 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:56:50.744234 19232 accounting.cpp:116: sendCounter(0, 0, 15)->true
+D 21-04-21 18:56:50.748237 19232 accounting.cpp:116: sendCounter(1, 0, 15)->true
+D 21-04-21 18:56:50.748237 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:56:50.754235 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:56:50.758235 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:56:50.764235 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551606)->true
+D 21-04-21 18:56:52.765284 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:56:55.771283 19232 accounting.cpp:116: sendCounter(0, 0, 16)->true
+D 21-04-21 18:56:55.776283 19232 accounting.cpp:116: sendCounter(1, 0, 16)->true
+D 21-04-21 18:56:55.776283 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:56:55.781284 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:56:55.785284 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:56:55.791285 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551605)->true
+D 21-04-21 18:56:57.792333 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:57:00.800322 19232 accounting.cpp:116: sendCounter(0, 0, 17)->true
+D 21-04-21 18:57:00.805322 19232 accounting.cpp:116: sendCounter(1, 0, 17)->true
+D 21-04-21 18:57:00.805322 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:57:00.810322 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:57:00.815352 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:57:00.820332 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551604)->true
+D 21-04-21 18:57:02.821335 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:57:05.827321 19232 accounting.cpp:116: sendCounter(0, 0, 18)->true
+D 21-04-21 18:57:05.832335 19232 accounting.cpp:116: sendCounter(1, 0, 18)->true
+D 21-04-21 18:57:05.832335 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:57:05.837321 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:57:05.842322 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:57:05.847323 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551603)->true
+D 21-04-21 18:57:07.848321 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:57:10.855375 19232 accounting.cpp:116: sendCounter(0, 0, 19)->true
+D 21-04-21 18:57:10.859374 19232 accounting.cpp:116: sendCounter(1, 0, 19)->true
+D 21-04-21 18:57:10.859374 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:57:10.865384 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:57:10.871387 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:57:10.875387 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551603)->true
+D 21-04-21 18:57:12.876387 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:57:15.881522 19232 accounting.cpp:116: sendCounter(0, 0, 20)->true
+D 21-04-21 18:57:15.887524 19232 accounting.cpp:116: sendCounter(1, 0, 20)->true
+D 21-04-21 18:57:15.887524 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:57:15.891522 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:57:15.897522 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:57:15.901537 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551603)->true
+D 21-04-21 18:57:17.902535 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:57:20.909523 19232 accounting.cpp:116: sendCounter(0, 0, 21)->true
+D 21-04-21 18:57:20.915537 19232 accounting.cpp:116: sendCounter(1, 0, 21)->true
+D 21-04-21 18:57:20.915537 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:57:20.919524 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:57:20.925537 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:57:20.929522 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551602)->true
+D 21-04-21 18:57:22.930577 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:57:25.937574 19232 accounting.cpp:116: sendCounter(0, 0, 22)->true
+D 21-04-21 18:57:25.941574 19232 accounting.cpp:116: sendCounter(1, 0, 22)->true
+D 21-04-21 18:57:25.941574 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:57:25.947575 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:57:25.951575 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:57:25.957573 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551601)->true
+D 21-04-21 18:57:27.958575 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:57:30.962588 19232 accounting.cpp:116: sendCounter(0, 0, 23)->true
+D 21-04-21 18:57:30.968575 19232 accounting.cpp:116: sendCounter(1, 0, 23)->true
+D 21-04-21 18:57:30.968575 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:57:30.972574 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:57:30.978575 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:57:30.982573 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551600)->true
+D 21-04-21 18:57:32.983574 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:57:35.989573 19232 accounting.cpp:116: sendCounter(0, 0, 24)->true
+D 21-04-21 18:57:35.995574 19232 accounting.cpp:116: sendCounter(1, 0, 24)->true
+D 21-04-21 18:57:35.995574 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:57:35.999573 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:57:36.005588 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:57:36.009573 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551599)->true
+D 21-04-21 18:57:38.010574 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:57:41.016693 19232 accounting.cpp:116: sendCounter(0, 0, 25)->true
+D 21-04-21 18:57:41.021693 19232 accounting.cpp:116: sendCounter(1, 0, 25)->true
+D 21-04-21 18:57:41.021693 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:57:41.026706 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:57:41.032692 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:57:41.036692 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551598)->true
+D 21-04-21 18:57:43.037692 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:57:46.043693 19232 accounting.cpp:116: sendCounter(0, 0, 26)->true
+D 21-04-21 18:57:46.048692 19232 accounting.cpp:116: sendCounter(1, 0, 26)->true
+D 21-04-21 18:57:46.048692 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:57:46.053693 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:57:46.058706 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:57:46.063692 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551597)->true
+D 21-04-21 18:57:48.064694 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:57:51.070693 19232 accounting.cpp:116: sendCounter(0, 0, 27)->true
+D 21-04-21 18:57:51.075693 19232 accounting.cpp:116: sendCounter(1, 0, 27)->true
+D 21-04-21 18:57:51.075693 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:57:51.080692 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:57:51.085694 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:57:51.090692 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551596)->true
+D 21-04-21 18:57:53.091693 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:57:56.098743 19232 accounting.cpp:116: sendCounter(0, 0, 28)->true
+D 21-04-21 18:57:56.103743 19232 accounting.cpp:116: sendCounter(1, 0, 28)->true
+D 21-04-21 18:57:56.103743 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:57:56.109742 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:57:56.113743 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:57:56.119742 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551596)->true
+D 21-04-21 18:57:58.120754 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:58:01.125742 19232 accounting.cpp:116: sendCounter(0, 0, 29)->true
+D 21-04-21 18:58:01.129744 19232 accounting.cpp:116: sendCounter(1, 0, 29)->true
+D 21-04-21 18:58:01.129744 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:58:01.135743 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:58:01.139743 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:58:01.145747 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551596)->true
+D 21-04-21 18:58:03.146742 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:58:06.149747 19232 accounting.cpp:116: sendCounter(0, 0, 30)->true
+D 21-04-21 18:58:06.155743 19232 accounting.cpp:116: sendCounter(1, 0, 30)->true
+D 21-04-21 18:58:06.155743 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:58:06.159746 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:58:06.165757 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:58:06.169743 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551595)->true
+D 21-04-21 18:58:08.170743 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:58:11.176918 19232 accounting.cpp:116: sendCounter(0, 0, 31)->true
+D 21-04-21 18:58:11.180916 19232 accounting.cpp:116: sendCounter(1, 0, 31)->true
+D 21-04-21 18:58:11.180916 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:58:11.186916 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:58:11.190916 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:58:11.196916 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551595)->true
+D 21-04-21 18:58:13.197916 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:58:16.205932 19232 accounting.cpp:116: sendCounter(0, 0, 32)->true
+D 21-04-21 18:58:16.209916 19232 accounting.cpp:116: sendCounter(1, 0, 32)->true
+D 21-04-21 18:58:16.209916 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:58:16.215934 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:58:16.219916 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:58:16.225932 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551595)->true
+D 21-04-21 18:58:18.226916 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:58:21.234966 19232 accounting.cpp:116: sendCounter(0, 0, 33)->true
+D 21-04-21 18:58:21.238966 19232 accounting.cpp:116: sendCounter(1, 0, 33)->true
+D 21-04-21 18:58:21.238966 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:58:21.244966 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:58:21.248966 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:58:21.254968 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551594)->true
+D 21-04-21 18:58:23.255966 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:58:26.263967 19232 accounting.cpp:116: sendCounter(0, 0, 34)->true
+D 21-04-21 18:58:26.269967 19232 accounting.cpp:116: sendCounter(1, 0, 34)->true
+D 21-04-21 18:58:26.269967 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:58:26.273967 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:58:26.279967 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:58:26.283967 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551594)->true
+D 21-04-21 18:58:28.284727 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:58:31.289587 19232 accounting.cpp:116: sendCounter(0, 0, 35)->true
+D 21-04-21 18:58:31.293589 19232 accounting.cpp:116: sendCounter(1, 0, 35)->true
+D 21-04-21 18:58:31.293589 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:58:31.299587 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:58:31.303587 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:58:31.309588 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551594)->true
+D 21-04-21 18:58:33.310589 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:58:36.313592 19232 accounting.cpp:116: sendCounter(0, 0, 36)->true
+D 21-04-21 18:58:36.319591 19232 accounting.cpp:116: sendCounter(1, 0, 36)->true
+D 21-04-21 18:58:36.319591 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:58:36.323591 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:58:36.329590 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:58:36.333592 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551593)->true
+D 21-04-21 18:58:38.334615 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:58:41.337300 19232 accounting.cpp:116: sendCounter(0, 0, 37)->true
+D 21-04-21 18:58:41.342301 19232 accounting.cpp:116: sendCounter(1, 0, 37)->true
+D 21-04-21 18:58:41.342301 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:58:41.348314 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:58:41.352300 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:58:41.358302 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551593)->true
+D 21-04-21 18:58:43.359301 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:58:46.366199 19232 accounting.cpp:116: sendCounter(0, 0, 38)->true
+D 21-04-21 18:58:46.370185 19232 accounting.cpp:116: sendCounter(1, 0, 38)->true
+D 21-04-21 18:58:46.370185 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:58:46.376185 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:58:46.380186 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:58:46.386199 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551593)->true
+D 21-04-21 18:58:48.387271 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:58:51.394271 19232 accounting.cpp:116: sendCounter(0, 0, 39)->true
+D 21-04-21 18:58:51.398272 19232 accounting.cpp:116: sendCounter(1, 0, 39)->true
+D 21-04-21 18:58:51.398272 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:58:51.404271 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:58:51.408270 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:58:51.414272 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551592)->true
+D 21-04-21 18:58:53.415284 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:58:56.422500 19232 accounting.cpp:116: sendCounter(0, 0, 40)->true
+D 21-04-21 18:58:56.428285 19232 accounting.cpp:116: sendCounter(1, 0, 40)->true
+D 21-04-21 18:58:56.428285 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:58:56.432270 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:58:56.438287 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:58:56.442271 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551591)->true
+D 21-04-21 18:58:58.443271 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:59:01.450270 19232 accounting.cpp:116: sendCounter(0, 0, 41)->true
+D 21-04-21 18:59:01.454270 19232 accounting.cpp:116: sendCounter(1, 0, 41)->true
+D 21-04-21 18:59:01.454270 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:59:01.460272 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:59:01.464272 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:59:01.470285 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551590)->true
+D 21-04-21 18:59:03.471271 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:59:06.479270 19232 accounting.cpp:116: sendCounter(0, 0, 42)->true
+D 21-04-21 18:59:06.485283 19232 accounting.cpp:116: sendCounter(1, 0, 42)->true
+D 21-04-21 18:59:06.485283 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:59:06.489269 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:59:06.495283 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:59:06.499269 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551589)->true
+D 21-04-21 18:59:08.500270 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:59:11.504321 19232 accounting.cpp:116: sendCounter(0, 0, 43)->true
+D 21-04-21 18:59:11.510320 19232 accounting.cpp:116: sendCounter(1, 0, 43)->true
+D 21-04-21 18:59:11.510320 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:59:11.516320 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:59:11.521320 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:59:11.525322 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551588)->true
+D 21-04-21 18:59:13.526322 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:59:16.534321 19232 accounting.cpp:116: sendCounter(0, 0, 44)->true
+D 21-04-21 18:59:16.540322 19232 accounting.cpp:116: sendCounter(1, 0, 44)->true
+D 21-04-21 18:59:16.540322 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:59:16.544323 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:59:16.550323 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:59:16.554322 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551587)->true
+D 21-04-21 18:59:18.554690 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:59:21.559703 19232 accounting.cpp:116: sendCounter(0, 0, 45)->true
+D 21-04-21 18:59:21.565718 19232 accounting.cpp:116: sendCounter(1, 0, 45)->true
+D 21-04-21 18:59:21.565718 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:59:21.569703 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:59:21.575718 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:59:21.579704 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551586)->true
+D 21-04-21 18:59:23.580703 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:59:26.587718 19232 accounting.cpp:116: sendCounter(0, 0, 46)->true
+D 21-04-21 18:59:26.591704 19232 accounting.cpp:116: sendCounter(1, 0, 46)->true
+D 21-04-21 18:59:26.591704 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:59:26.597703 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:59:26.601704 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:59:26.607703 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551585)->true
+D 21-04-21 18:59:28.608704 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:59:31.615718 19232 accounting.cpp:116: sendCounter(0, 0, 47)->true
+D 21-04-21 18:59:31.619704 19232 accounting.cpp:116: sendCounter(1, 0, 47)->true
+D 21-04-21 18:59:31.619704 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:59:31.625718 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:59:31.629704 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:59:31.635718 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551584)->true
+D 21-04-21 18:59:33.636749 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:59:36.641749 19232 accounting.cpp:116: sendCounter(0, 0, 48)->true
+D 21-04-21 18:59:36.645749 19232 accounting.cpp:116: sendCounter(1, 0, 48)->true
+D 21-04-21 18:59:36.645749 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:59:36.651765 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:59:36.656753 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:59:36.660749 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551583)->true
+D 21-04-21 18:59:38.661750 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:59:41.664906 19232 accounting.cpp:116: sendCounter(0, 0, 49)->true
+D 21-04-21 18:59:41.670905 19232 accounting.cpp:116: sendCounter(1, 0, 49)->true
+D 21-04-21 18:59:41.670905 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:59:41.674906 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:59:41.680905 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:59:41.684906 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551582)->true
+D 21-04-21 18:59:43.685906 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:59:46.691918 19232 accounting.cpp:116: sendCounter(0, 0, 50)->true
+D 21-04-21 18:59:46.696920 19232 accounting.cpp:116: sendCounter(1, 0, 50)->true
+D 21-04-21 18:59:46.696920 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:59:46.702920 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:59:46.706908 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:59:46.712906 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551582)->true
+D 21-04-21 18:59:48.713905 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:59:51.719907 19232 accounting.cpp:116: sendCounter(0, 0, 51)->true
+D 21-04-21 18:59:51.725906 19232 accounting.cpp:116: sendCounter(1, 0, 51)->true
+D 21-04-21 18:59:51.725906 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:59:51.729918 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:59:51.734918 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:59:51.739100 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551582)->true
+D 21-04-21 18:59:53.739905 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 18:59:56.745921 19232 accounting.cpp:116: sendCounter(0, 0, 52)->true
+D 21-04-21 18:59:56.750906 19232 accounting.cpp:116: sendCounter(1, 0, 52)->true
+D 21-04-21 18:59:56.750906 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 18:59:56.754905 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 18:59:56.760905 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 18:59:56.765905 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551581)->true
+D 21-04-21 18:59:58.766920 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:00:01.770920 19232 accounting.cpp:116: sendCounter(0, 0, 53)->true
+D 21-04-21 19:00:01.775920 19232 accounting.cpp:116: sendCounter(1, 0, 53)->true
+D 21-04-21 19:00:01.775920 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:00:01.780920 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:00:01.785906 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:00:01.790920 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551580)->true
+D 21-04-21 19:00:03.791907 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:00:06.797920 19232 accounting.cpp:116: sendCounter(0, 0, 54)->true
+D 21-04-21 19:00:06.802920 19232 accounting.cpp:116: sendCounter(1, 0, 54)->true
+D 21-04-21 19:00:06.802920 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:00:06.807921 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:00:06.812920 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:00:06.817920 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551580)->true
+D 21-04-21 19:00:08.819128 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:00:11.825906 19232 accounting.cpp:116: sendCounter(0, 0, 55)->true
+D 21-04-21 19:00:11.831905 19232 accounting.cpp:116: sendCounter(1, 0, 55)->true
+D 21-04-21 19:00:11.831905 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:00:11.835905 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:00:11.841905 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:00:11.846918 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551580)->true
+D 21-04-21 19:00:13.847920 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:00:16.854958 19232 accounting.cpp:116: sendCounter(0, 0, 56)->true
+D 21-04-21 19:00:16.858957 19232 accounting.cpp:116: sendCounter(1, 0, 56)->true
+D 21-04-21 19:00:16.858957 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:00:16.864958 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:00:16.870960 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:00:16.874960 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551580)->true
+D 21-04-21 19:00:18.875957 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:00:21.882957 19232 accounting.cpp:116: sendCounter(0, 0, 57)->true
+D 21-04-21 19:00:21.886956 19232 accounting.cpp:116: sendCounter(1, 0, 57)->true
+D 21-04-21 19:00:21.886956 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:00:21.892957 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:00:21.896956 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:00:21.902967 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551579)->true
+D 21-04-21 19:00:23.903957 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:00:26.910956 19232 accounting.cpp:116: sendCounter(0, 0, 58)->true
+D 21-04-21 19:00:26.916970 19232 accounting.cpp:116: sendCounter(1, 0, 58)->true
+D 21-04-21 19:00:26.916970 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:00:26.920957 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:00:26.926969 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:00:26.930956 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551578)->true
+D 21-04-21 19:00:28.931967 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:00:31.938957 19232 accounting.cpp:116: sendCounter(0, 0, 59)->true
+D 21-04-21 19:00:31.942956 19232 accounting.cpp:116: sendCounter(1, 0, 59)->true
+D 21-04-21 19:00:31.942956 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:00:31.948967 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:00:31.952956 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:00:31.958970 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551578)->true
+D 21-04-21 19:00:33.959967 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:00:36.966967 19232 accounting.cpp:116: sendCounter(0, 0, 60)->true
+D 21-04-21 19:00:36.970956 19232 accounting.cpp:116: sendCounter(1, 0, 60)->true
+D 21-04-21 19:00:36.970956 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:00:36.976955 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:00:36.980956 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:00:36.986955 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551578)->true
+D 21-04-21 19:00:38.987970 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:00:41.990956 19232 accounting.cpp:116: sendCounter(0, 0, 61)->true
+D 21-04-21 19:00:41.996956 19232 accounting.cpp:116: sendCounter(1, 0, 61)->true
+D 21-04-21 19:00:41.996956 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:00:42.000956 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:00:42.006957 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:00:42.010956 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551578)->true
+D 21-04-21 19:00:44.011970 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:00:47.017956 19232 accounting.cpp:116: sendCounter(0, 0, 62)->true
+D 21-04-21 19:00:47.023957 19232 accounting.cpp:116: sendCounter(1, 0, 62)->true
+D 21-04-21 19:00:47.023957 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:00:47.029977 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:00:47.034958 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:00:47.038956 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551577)->true
+D 21-04-21 19:00:49.039957 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:00:52.045191 19232 accounting.cpp:116: sendCounter(0, 0, 63)->true
+D 21-04-21 19:00:52.050205 19232 accounting.cpp:116: sendCounter(1, 0, 63)->true
+D 21-04-21 19:00:52.050205 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:00:52.055190 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:00:52.060204 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:00:52.065190 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551576)->true
+D 21-04-21 19:00:54.066204 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:00:57.072356 19232 accounting.cpp:116: sendCounter(0, 0, 64)->true
+D 21-04-21 19:00:57.078356 19232 accounting.cpp:116: sendCounter(1, 0, 64)->true
+D 21-04-21 19:00:57.078356 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:00:57.084356 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:00:57.088371 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:00:57.094356 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551575)->true
+D 21-04-21 19:00:59.095414 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:01:02.100415 19232 accounting.cpp:116: sendCounter(0, 0, 65)->true
+D 21-04-21 19:01:02.106416 19232 accounting.cpp:116: sendCounter(1, 0, 65)->true
+D 21-04-21 19:01:02.106416 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:01:02.110415 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:01:02.116415 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:01:02.120415 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551575)->true
+D 21-04-21 19:01:04.121417 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:01:07.124415 19232 accounting.cpp:116: sendCounter(0, 0, 66)->true
+D 21-04-21 19:01:07.130414 19232 accounting.cpp:116: sendCounter(1, 0, 66)->true
+D 21-04-21 19:01:07.130414 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:01:07.134415 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:01:07.140429 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:01:07.144415 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551575)->true
+D 21-04-21 19:01:09.145415 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:01:12.152415 19232 accounting.cpp:116: sendCounter(0, 0, 67)->true
+D 21-04-21 19:01:12.158429 19232 accounting.cpp:116: sendCounter(1, 0, 67)->true
+D 21-04-21 19:01:12.158429 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:01:12.164415 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:01:12.168415 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:01:12.172415 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551574)->true
+D 21-04-21 19:01:14.173415 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:01:17.180415 19232 accounting.cpp:116: sendCounter(0, 0, 68)->true
+D 21-04-21 19:01:17.186415 19232 accounting.cpp:116: sendCounter(1, 0, 68)->true
+D 21-04-21 19:01:17.186415 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:01:17.190415 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:01:17.196429 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:01:17.200415 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551573)->true
+D 21-04-21 19:01:19.201415 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:01:22.204418 19232 accounting.cpp:116: sendCounter(0, 0, 69)->true
+D 21-04-21 19:01:22.210428 19232 accounting.cpp:116: sendCounter(1, 0, 69)->true
+D 21-04-21 19:01:22.210428 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:01:22.214416 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:01:22.220416 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:01:22.224415 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551572)->true
+D 21-04-21 19:01:24.225415 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:01:27.232414 19232 accounting.cpp:116: sendCounter(0, 0, 70)->true
+D 21-04-21 19:01:27.236414 19232 accounting.cpp:116: sendCounter(1, 0, 70)->true
+D 21-04-21 19:01:27.236414 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:01:27.242414 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:01:27.246414 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:01:27.252429 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551572)->true
+D 21-04-21 19:01:29.253415 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:01:32.259417 19232 accounting.cpp:116: sendCounter(0, 0, 71)->true
+D 21-04-21 19:01:32.263414 19232 accounting.cpp:116: sendCounter(1, 0, 71)->true
+D 21-04-21 19:01:32.263414 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:01:32.269429 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:01:32.273414 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:01:32.279427 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551572)->true
+D 21-04-21 19:01:34.280415 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:01:37.287074 19232 accounting.cpp:116: sendCounter(0, 0, 72)->true
+D 21-04-21 19:01:37.291072 19232 accounting.cpp:116: sendCounter(1, 0, 72)->true
+D 21-04-21 19:01:37.291072 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:01:37.297073 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:01:37.301072 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:01:37.307086 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551571)->true
+D 21-04-21 19:01:39.308071 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:01:42.313075 19232 accounting.cpp:116: sendCounter(0, 0, 73)->true
+D 21-04-21 19:01:42.319090 19232 accounting.cpp:116: sendCounter(1, 0, 73)->true
+D 21-04-21 19:01:42.319090 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:01:42.323076 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:01:42.329089 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:01:42.333076 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551570)->true
+D 21-04-21 19:01:44.333298 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:01:47.339669 19232 accounting.cpp:116: sendCounter(0, 0, 74)->true
+D 21-04-21 19:01:47.345669 19232 accounting.cpp:116: sendCounter(1, 0, 74)->true
+D 21-04-21 19:01:47.345669 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:01:47.350669 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:01:47.356742 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:01:47.360741 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551570)->true
+D 21-04-21 19:01:49.361743 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:01:52.368743 19232 accounting.cpp:116: sendCounter(0, 0, 75)->true
+D 21-04-21 19:01:52.374743 19232 accounting.cpp:116: sendCounter(1, 0, 75)->true
+D 21-04-21 19:01:52.374743 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:01:52.378742 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:01:52.384742 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:01:52.388742 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551569)->true
+D 21-04-21 19:01:54.389754 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:01:57.396742 19232 accounting.cpp:116: sendCounter(0, 0, 76)->true
+D 21-04-21 19:01:57.401742 19232 accounting.cpp:116: sendCounter(1, 0, 76)->true
+D 21-04-21 19:01:57.401742 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:01:57.407741 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:01:57.411742 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:01:57.417756 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551568)->true
+D 21-04-21 19:01:59.418742 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:02:02.423743 19232 accounting.cpp:116: sendCounter(0, 0, 77)->true
+D 21-04-21 19:02:02.429744 19232 accounting.cpp:116: sendCounter(1, 0, 77)->true
+D 21-04-21 19:02:02.429744 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:02:02.433742 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:02:02.439744 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:02:02.443745 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551568)->true
+D 21-04-21 19:02:04.444742 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:02:07.449821 19232 accounting.cpp:116: sendCounter(0, 0, 78)->true
+D 21-04-21 19:02:07.453742 19232 accounting.cpp:116: sendCounter(1, 0, 78)->true
+D 21-04-21 19:02:07.453742 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:02:07.459756 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:02:07.463742 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:02:07.469742 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551567)->true
+D 21-04-21 19:02:09.470743 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:02:12.477778 19232 accounting.cpp:116: sendCounter(0, 0, 79)->true
+D 21-04-21 19:02:12.481764 19232 accounting.cpp:116: sendCounter(1, 0, 79)->true
+D 21-04-21 19:02:12.481764 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:02:12.487778 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:02:12.491764 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:02:12.497778 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551566)->true
+D 21-04-21 19:02:14.498764 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:02:17.504764 19232 accounting.cpp:116: sendCounter(0, 0, 80)->true
+D 21-04-21 19:02:17.510765 19232 accounting.cpp:116: sendCounter(1, 0, 80)->true
+D 21-04-21 19:02:17.510765 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:02:17.514764 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:02:17.520765 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:02:17.524764 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551566)->true
+D 21-04-21 19:02:19.525778 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:02:22.533766 19232 accounting.cpp:116: sendCounter(0, 0, 81)->true
+D 21-04-21 19:02:22.539776 19232 accounting.cpp:116: sendCounter(1, 0, 81)->true
+D 21-04-21 19:02:22.539776 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:02:22.544764 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:02:22.548764 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:02:22.554764 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551566)->true
+D 21-04-21 19:02:24.555764 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:02:27.563765 19232 accounting.cpp:116: sendCounter(0, 0, 82)->true
+D 21-04-21 19:02:27.569764 19232 accounting.cpp:116: sendCounter(1, 0, 82)->true
+D 21-04-21 19:02:27.569764 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:02:27.573766 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:02:27.579777 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:02:27.583765 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551565)->true
+D 21-04-21 19:02:29.584778 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:02:32.592778 19232 accounting.cpp:116: sendCounter(0, 0, 83)->true
+D 21-04-21 19:02:32.596764 19232 accounting.cpp:116: sendCounter(1, 0, 83)->true
+D 21-04-21 19:02:32.596764 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:02:32.601765 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:02:32.607778 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:02:32.611779 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551564)->true
+D 21-04-21 19:02:34.612764 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:02:37.620765 19232 accounting.cpp:116: sendCounter(0, 0, 84)->true
+D 21-04-21 19:02:37.625764 19232 accounting.cpp:116: sendCounter(1, 0, 84)->true
+D 21-04-21 19:02:37.625764 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:02:37.630764 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:02:37.636764 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:02:37.641769 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551563)->true
+D 21-04-21 19:02:39.642764 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:02:42.648778 19232 accounting.cpp:116: sendCounter(0, 0, 85)->true
+D 21-04-21 19:02:42.653765 19232 accounting.cpp:116: sendCounter(1, 0, 85)->true
+D 21-04-21 19:02:42.653765 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:02:42.658766 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:02:42.663764 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:02:42.668766 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551563)->true
+D 21-04-21 19:02:44.669777 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:02:47.677766 19232 accounting.cpp:116: sendCounter(0, 0, 86)->true
+D 21-04-21 19:02:47.682784 19232 accounting.cpp:116: sendCounter(1, 0, 86)->true
+D 21-04-21 19:02:47.682784 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:02:47.687785 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:02:47.691786 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:02:47.696784 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551562)->true
+D 21-04-21 19:02:49.697776 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:02:52.704835 19232 accounting.cpp:116: sendCounter(0, 0, 87)->true
+D 21-04-21 19:02:52.710847 19232 accounting.cpp:116: sendCounter(1, 0, 87)->true
+D 21-04-21 19:02:52.710847 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:02:52.714835 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:02:52.720847 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:02:52.724835 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551562)->true
+D 21-04-21 19:02:54.725852 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:02:57.731202 19232 accounting.cpp:116: sendCounter(0, 0, 88)->true
+D 21-04-21 19:02:57.735202 19232 accounting.cpp:116: sendCounter(1, 0, 88)->true
+D 21-04-21 19:02:57.735202 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:02:57.741213 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:02:57.745201 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:02:57.751205 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551562)->true
+D 21-04-21 19:02:59.752204 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:03:02.759201 19232 accounting.cpp:116: sendCounter(0, 0, 89)->true
+D 21-04-21 19:03:02.765216 19232 accounting.cpp:116: sendCounter(1, 0, 89)->true
+D 21-04-21 19:03:02.765216 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:03:02.771213 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:03:02.775202 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:03:02.779205 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551561)->true
+D 21-04-21 19:03:04.780203 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:03:07.786214 19232 accounting.cpp:116: sendCounter(0, 0, 90)->true
+D 21-04-21 19:03:07.791213 19232 accounting.cpp:116: sendCounter(1, 0, 90)->true
+D 21-04-21 19:03:07.791213 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:03:07.795201 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:03:07.801202 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:03:07.805202 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551561)->true
+D 21-04-21 19:03:09.806216 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:03:12.814202 19232 accounting.cpp:116: sendCounter(0, 0, 91)->true
+D 21-04-21 19:03:12.820216 19232 accounting.cpp:116: sendCounter(1, 0, 91)->true
+D 21-04-21 19:03:12.820216 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:03:12.825216 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:03:12.830213 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:03:12.834202 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551560)->true
+D 21-04-21 19:03:14.835254 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:03:17.843252 19232 accounting.cpp:116: sendCounter(0, 0, 92)->true
+D 21-04-21 19:03:17.848265 19232 accounting.cpp:116: sendCounter(1, 0, 92)->true
+D 21-04-21 19:03:17.848265 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:03:17.853254 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:03:17.858267 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:03:17.862269 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551560)->true
+D 21-04-21 19:03:19.863254 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:03:22.867253 19232 accounting.cpp:116: sendCounter(0, 0, 93)->true
+D 21-04-21 19:03:22.872253 19232 accounting.cpp:116: sendCounter(1, 0, 93)->true
+D 21-04-21 19:03:22.872253 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:03:22.877253 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:03:22.882253 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:03:22.887252 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551560)->true
+D 21-04-21 19:03:24.888252 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:03:27.892252 19232 accounting.cpp:116: sendCounter(0, 0, 94)->true
+D 21-04-21 19:03:27.897266 19232 accounting.cpp:116: sendCounter(1, 0, 94)->true
+D 21-04-21 19:03:27.897266 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:03:27.902266 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:03:27.907266 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:03:27.912264 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551559)->true
+D 21-04-21 19:03:29.913298 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:03:32.918299 19232 accounting.cpp:116: sendCounter(0, 0, 95)->true
+D 21-04-21 19:03:32.922298 19232 accounting.cpp:116: sendCounter(1, 0, 95)->true
+D 21-04-21 19:03:32.922298 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:03:32.928300 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:03:32.932298 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:03:32.938299 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551559)->true
+D 21-04-21 19:03:34.939299 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:03:37.944299 19232 accounting.cpp:116: sendCounter(0, 0, 96)->true
+D 21-04-21 19:03:37.949312 19232 accounting.cpp:116: sendCounter(1, 0, 96)->true
+D 21-04-21 19:03:37.949312 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:03:37.953300 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:03:37.959298 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:03:37.963298 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551559)->true
+D 21-04-21 19:03:39.964364 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:03:42.969349 19232 accounting.cpp:116: sendCounter(0, 0, 97)->true
+D 21-04-21 19:03:42.975349 19232 accounting.cpp:116: sendCounter(1, 0, 97)->true
+D 21-04-21 19:03:42.975349 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:03:42.981350 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:03:42.985349 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:03:42.991349 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551559)->true
+D 21-04-21 19:03:44.992350 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:03:47.997358 19232 accounting.cpp:116: sendCounter(0, 0, 98)->true
+D 21-04-21 19:03:48.003353 19232 accounting.cpp:116: sendCounter(1, 0, 98)->true
+D 21-04-21 19:03:48.003353 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:03:48.007351 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:03:48.013349 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:03:48.017355 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551558)->true
+D 21-04-21 19:03:50.018349 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:03:53.025349 19232 accounting.cpp:116: sendCounter(0, 0, 99)->true
+D 21-04-21 19:03:53.031349 19232 accounting.cpp:116: sendCounter(1, 0, 99)->true
+D 21-04-21 19:03:53.031349 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:03:53.035349 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:03:53.041364 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:03:53.045351 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551558)->true
+D 21-04-21 19:03:55.046412 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:03:58.051400 19232 accounting.cpp:116: sendCounter(0, 0, 100)->true
+D 21-04-21 19:03:58.057415 19232 accounting.cpp:116: sendCounter(1, 0, 100)->true
+D 21-04-21 19:03:58.057415 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:03:58.061401 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:03:58.067415 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:03:58.071401 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551557)->true
+D 21-04-21 19:04:00.072401 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:04:03.078413 19232 accounting.cpp:116: sendCounter(0, 0, 101)->true
+D 21-04-21 19:04:03.082402 19232 accounting.cpp:116: sendCounter(1, 0, 101)->true
+D 21-04-21 19:04:03.082402 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:04:03.088401 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:04:03.094402 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:04:03.098400 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551556)->true
+D 21-04-21 19:04:05.099402 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:04:08.105402 19232 accounting.cpp:116: sendCounter(0, 0, 102)->true
+D 21-04-21 19:04:08.111414 19232 accounting.cpp:116: sendCounter(1, 0, 102)->true
+D 21-04-21 19:04:08.111414 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:04:08.115403 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:04:08.121401 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:04:08.125414 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551555)->true
+D 21-04-21 19:04:10.125959 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:04:13.132963 19232 accounting.cpp:116: sendCounter(0, 0, 103)->true
+D 21-04-21 19:04:13.136962 19232 accounting.cpp:116: sendCounter(1, 0, 103)->true
+D 21-04-21 19:04:13.136962 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:04:13.142962 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:04:13.146961 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:04:13.152961 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551555)->true
+D 21-04-21 19:04:15.153963 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:04:18.160962 19232 accounting.cpp:116: sendCounter(0, 0, 104)->true
+D 21-04-21 19:04:18.164963 19232 accounting.cpp:116: sendCounter(1, 0, 104)->true
+D 21-04-21 19:04:18.164963 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:04:18.170973 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:04:18.174962 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:04:18.180962 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551555)->true
+D 21-04-21 19:04:20.181961 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:04:23.187011 19232 accounting.cpp:116: sendCounter(0, 0, 105)->true
+D 21-04-21 19:04:23.191010 19232 accounting.cpp:116: sendCounter(1, 0, 105)->true
+D 21-04-21 19:04:23.191010 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:04:23.197024 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:04:23.201011 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:04:23.207010 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551554)->true
+D 21-04-21 19:04:25.208011 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:04:28.214011 19232 accounting.cpp:116: sendCounter(0, 0, 106)->true
+D 21-04-21 19:04:28.218010 19232 accounting.cpp:116: sendCounter(1, 0, 106)->true
+D 21-04-21 19:04:28.218010 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:04:28.224011 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:04:28.230025 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:04:28.234018 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551553)->true
+D 21-04-21 19:04:30.235011 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:04:33.241012 19232 accounting.cpp:116: sendCounter(0, 0, 107)->true
+D 21-04-21 19:04:33.245025 19232 accounting.cpp:116: sendCounter(1, 0, 107)->true
+D 21-04-21 19:04:33.245025 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:04:33.251010 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:04:33.255010 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:04:33.261012 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551553)->true
+D 21-04-21 19:04:35.262013 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:04:38.270012 19232 accounting.cpp:116: sendCounter(0, 0, 108)->true
+D 21-04-21 19:04:38.274013 19232 accounting.cpp:116: sendCounter(1, 0, 108)->true
+D 21-04-21 19:04:38.274013 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:04:38.280013 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:04:38.284012 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:04:38.290012 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551553)->true
+D 21-04-21 19:04:40.291024 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:04:43.297026 19232 accounting.cpp:116: sendCounter(0, 0, 109)->true
+D 21-04-21 19:04:43.302011 19232 accounting.cpp:116: sendCounter(1, 0, 109)->true
+D 21-04-21 19:04:43.302011 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:04:43.308012 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:04:43.312017 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:04:43.318031 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551552)->true
+D 21-04-21 19:04:45.319025 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:04:48.325011 19232 accounting.cpp:116: sendCounter(0, 0, 110)->true
+D 21-04-21 19:04:48.329275 19232 accounting.cpp:116: sendCounter(1, 0, 110)->true
+D 21-04-21 19:04:48.329275 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:04:48.333247 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:04:48.340025 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:04:48.344012 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551552)->true
+D 21-04-21 19:04:50.345025 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:04:53.351644 19232 accounting.cpp:116: sendCounter(0, 0, 111)->true
+D 21-04-21 19:04:53.357644 19232 accounting.cpp:116: sendCounter(1, 0, 111)->true
+D 21-04-21 19:04:53.357644 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:04:53.363644 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:04:53.367644 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:04:53.371645 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551551)->true
+D 21-04-21 19:04:55.372135 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:04:58.378354 19232 accounting.cpp:116: sendCounter(0, 0, 112)->true
+D 21-04-21 19:04:58.384352 19232 accounting.cpp:116: sendCounter(1, 0, 112)->true
+D 21-04-21 19:04:58.384352 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:04:58.388353 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:04:58.394352 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:04:58.398352 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551550)->true
+D 21-04-21 19:05:00.399366 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:05:03.406353 19232 accounting.cpp:116: sendCounter(0, 0, 113)->true
+D 21-04-21 19:05:03.410352 19232 accounting.cpp:116: sendCounter(1, 0, 113)->true
+D 21-04-21 19:05:03.410352 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:05:03.416353 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:05:03.420354 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:05:03.426353 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551549)->true
+D 21-04-21 19:05:05.427353 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:05:08.432352 19232 accounting.cpp:116: sendCounter(0, 0, 114)->true
+D 21-04-21 19:05:08.438366 19232 accounting.cpp:116: sendCounter(1, 0, 114)->true
+D 21-04-21 19:05:08.438366 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:05:08.442352 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:05:08.448364 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:05:08.452351 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551548)->true
+D 21-04-21 19:05:10.453364 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:05:13.460351 19232 accounting.cpp:116: sendCounter(0, 0, 115)->true
+D 21-04-21 19:05:13.466354 19232 accounting.cpp:116: sendCounter(1, 0, 115)->true
+D 21-04-21 19:05:13.466354 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:05:13.470352 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:05:13.475352 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:05:13.481354 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551547)->true
+D 21-04-21 19:05:15.481643 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:05:18.489656 19232 accounting.cpp:116: sendCounter(0, 0, 116)->true
+D 21-04-21 19:05:18.494656 19232 accounting.cpp:116: sendCounter(1, 0, 116)->true
+D 21-04-21 19:05:18.494656 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:05:18.499655 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:05:18.505656 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:05:18.509656 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551547)->true
+D 21-04-21 19:05:20.510658 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:05:23.516643 19232 accounting.cpp:116: sendCounter(0, 0, 117)->true
+D 21-04-21 19:05:23.521644 19232 accounting.cpp:116: sendCounter(1, 0, 117)->true
+D 21-04-21 19:05:23.521644 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:05:23.526657 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:05:23.531643 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:05:23.536657 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551547)->true
+D 21-04-21 19:05:25.537655 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:05:28.545694 19232 accounting.cpp:116: sendCounter(0, 0, 118)->true
+D 21-04-21 19:05:28.550694 19232 accounting.cpp:116: sendCounter(1, 0, 118)->true
+D 21-04-21 19:05:28.550694 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:05:28.555692 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:05:28.560680 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:05:28.565694 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551546)->true
+D 21-04-21 19:05:30.566694 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:05:33.571679 19232 accounting.cpp:116: sendCounter(0, 0, 119)->true
+D 21-04-21 19:05:33.577680 19232 accounting.cpp:116: sendCounter(1, 0, 119)->true
+D 21-04-21 19:05:33.577680 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:05:33.581680 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:05:33.586679 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:05:33.591694 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551546)->true
+D 21-04-21 19:05:35.592692 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:05:38.599680 19232 accounting.cpp:116: sendCounter(0, 0, 120)->true
+D 21-04-21 19:05:38.604680 19232 accounting.cpp:116: sendCounter(1, 0, 120)->true
+D 21-04-21 19:05:38.604680 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:05:38.610693 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:05:38.614679 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:05:38.620679 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551545)->true
+D 21-04-21 19:05:40.621713 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:05:43.628796 19232 accounting.cpp:116: sendCounter(0, 0, 121)->true
+D 21-04-21 19:05:43.632714 19232 accounting.cpp:116: sendCounter(1, 0, 121)->true
+D 21-04-21 19:05:43.632714 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:05:43.638727 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:05:43.642715 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:05:43.648726 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551545)->true
+D 21-04-21 19:05:45.649714 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:05:48.654719 19232 accounting.cpp:116: sendCounter(0, 0, 122)->true
+D 21-04-21 19:05:48.658727 19232 accounting.cpp:116: sendCounter(1, 0, 122)->true
+D 21-04-21 19:05:48.658727 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:05:48.664712 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:05:48.668713 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:05:48.674727 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551544)->true
+D 21-04-21 19:05:50.675713 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:05:53.680716 19232 accounting.cpp:116: sendCounter(0, 0, 123)->true
+D 21-04-21 19:05:53.684714 19232 accounting.cpp:116: sendCounter(1, 0, 123)->true
+D 21-04-21 19:05:53.684714 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:05:53.690713 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:05:53.694713 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:05:53.700714 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551543)->true
+D 21-04-21 19:05:55.701715 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:05:58.707712 19232 accounting.cpp:116: sendCounter(0, 0, 124)->true
+D 21-04-21 19:05:58.713713 19232 accounting.cpp:116: sendCounter(1, 0, 124)->true
+D 21-04-21 19:05:58.713713 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:05:58.717713 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:05:58.723713 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:05:58.727713 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551543)->true
+D 21-04-21 19:06:00.728764 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:06:03.733765 19232 accounting.cpp:116: sendCounter(0, 0, 125)->true
+D 21-04-21 19:06:03.737765 19232 accounting.cpp:116: sendCounter(1, 0, 125)->true
+D 21-04-21 19:06:03.737765 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:06:03.743765 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:06:03.747764 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:06:03.753764 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551542)->true
+D 21-04-21 19:06:05.754778 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:06:08.762765 19232 accounting.cpp:116: sendCounter(0, 0, 126)->true
+D 21-04-21 19:06:08.766764 19232 accounting.cpp:116: sendCounter(1, 0, 126)->true
+D 21-04-21 19:06:08.766764 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:06:08.772764 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:06:08.776766 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:06:08.782766 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551542)->true
+D 21-04-21 19:06:10.782944 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:06:13.790982 19232 accounting.cpp:116: sendCounter(0, 0, 127)->true
+D 21-04-21 19:06:13.795982 19232 accounting.cpp:116: sendCounter(1, 0, 127)->true
+D 21-04-21 19:06:13.795982 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:06:13.799245 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:06:13.805263 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:06:13.809980 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551541)->true
+D 21-04-21 19:06:15.810983 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:06:18.816981 19232 accounting.cpp:116: sendCounter(0, 0, 128)->true
+D 21-04-21 19:06:18.821981 19232 accounting.cpp:116: sendCounter(1, 0, 128)->true
+D 21-04-21 19:06:18.821981 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:06:18.826982 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:06:18.831981 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:06:18.836981 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551540)->true
+D 21-04-21 19:06:20.837980 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:06:23.840982 19232 accounting.cpp:116: sendCounter(0, 0, 129)->true
+D 21-04-21 19:06:23.845981 19232 accounting.cpp:116: sendCounter(1, 0, 129)->true
+D 21-04-21 19:06:23.845981 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:06:23.851995 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:06:23.856981 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:06:23.861981 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551539)->true
+D 21-04-21 19:06:25.862993 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:06:28.870164 19232 accounting.cpp:116: sendCounter(0, 0, 130)->true
+D 21-04-21 19:06:28.874163 19232 accounting.cpp:116: sendCounter(1, 0, 130)->true
+D 21-04-21 19:06:28.874163 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:06:28.880163 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:06:28.886177 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:06:28.890162 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551538)->true
+D 21-04-21 19:06:30.891168 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:06:33.896163 19232 accounting.cpp:116: sendCounter(0, 0, 131)->true
+D 21-04-21 19:06:33.900164 19232 accounting.cpp:116: sendCounter(1, 0, 131)->true
+D 21-04-21 19:06:33.900164 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:06:33.906164 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:06:33.910164 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:06:33.916164 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551537)->true
+D 21-04-21 19:06:35.917187 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:06:38.920164 19232 accounting.cpp:116: sendCounter(0, 0, 132)->true
+D 21-04-21 19:06:38.926162 19232 accounting.cpp:116: sendCounter(1, 0, 132)->true
+D 21-04-21 19:06:38.926162 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:06:38.930164 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:06:38.936163 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:06:38.940163 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551536)->true
+D 21-04-21 19:06:40.941177 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:06:43.944345 19232 accounting.cpp:116: sendCounter(0, 0, 133)->true
+D 21-04-21 19:06:43.950345 19232 accounting.cpp:116: sendCounter(1, 0, 133)->true
+D 21-04-21 19:06:43.950345 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:06:43.954344 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:06:43.960346 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:06:43.964346 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551535)->true
+D 21-04-21 19:06:45.965358 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:06:48.969403 19232 accounting.cpp:116: sendCounter(0, 0, 134)->true
+D 21-04-21 19:06:48.975401 19232 accounting.cpp:116: sendCounter(1, 0, 134)->true
+D 21-04-21 19:06:48.975401 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:06:48.980390 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:06:48.984389 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:06:48.990389 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551534)->true
+D 21-04-21 19:06:50.991449 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:06:53.997449 19232 accounting.cpp:116: sendCounter(0, 0, 135)->true
+D 21-04-21 19:06:54.002436 19232 accounting.cpp:116: sendCounter(1, 0, 135)->true
+D 21-04-21 19:06:54.002436 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:06:54.007434 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:06:54.012434 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:06:54.017436 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551534)->true
+D 21-04-21 19:06:56.018448 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:06:59.026434 19232 accounting.cpp:116: sendCounter(0, 0, 136)->true
+D 21-04-21 19:06:59.031448 19232 accounting.cpp:116: sendCounter(1, 0, 136)->true
+D 21-04-21 19:06:59.031448 19232 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:06:59.036446 19232 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:06:59.041449 19232 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:06:59.046436 19232 accounting.cpp:116: sendCounter(0, 12, 18446744073709551533)->true
+D 21-04-21 19:07:01.047434 19232 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:22:43.053071 16736 accounting.cpp:116: sendCounter(0, 0, 137)->true
+D 21-04-21 19:22:43.059086 16736 accounting.cpp:116: sendCounter(1, 0, 137)->true
+D 21-04-21 19:22:43.059086 16736 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:22:43.063072 16736 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:22:43.069086 16736 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:22:43.073086 16736 accounting.cpp:116: sendCounter(0, 12, 18446744073709551532)->true
+D 21-04-21 19:22:45.074085 16736 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:22:48.081071 16736 accounting.cpp:116: sendCounter(0, 0, 138)->true
+D 21-04-21 19:22:48.087071 16736 accounting.cpp:116: sendCounter(1, 0, 138)->true
+D 21-04-21 19:22:48.087071 16736 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:22:48.091072 16736 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:22:48.097086 16736 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:22:48.101073 16736 accounting.cpp:116: sendCounter(0, 12, 18446744073709551532)->true
+D 21-04-21 19:22:50.102083 16736 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:22:53.107071 16736 accounting.cpp:116: sendCounter(0, 0, 139)->true
+D 21-04-21 19:22:53.111073 16736 accounting.cpp:116: sendCounter(1, 0, 139)->true
+D 21-04-21 19:22:53.111073 16736 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:22:53.117085 16736 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:22:53.121071 16736 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:22:53.127071 16736 accounting.cpp:116: sendCounter(0, 12, 18446744073709551531)->true
+D 21-04-21 19:22:55.128071 16736 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:22:58.133072 16736 accounting.cpp:116: sendCounter(0, 0, 140)->true
+D 21-04-21 19:22:58.137071 16736 accounting.cpp:116: sendCounter(1, 0, 140)->true
+D 21-04-21 19:22:58.137071 16736 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:22:58.143072 16736 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:22:58.147073 16736 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:22:58.153224 16736 accounting.cpp:116: sendCounter(0, 12, 18446744073709551530)->true
+D 21-04-21 19:23:00.154072 16736 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:23:03.161071 16736 accounting.cpp:116: sendCounter(0, 0, 141)->true
+D 21-04-21 19:23:03.167071 16736 accounting.cpp:116: sendCounter(1, 0, 141)->true
+D 21-04-21 19:23:03.167071 16736 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:23:03.171071 16736 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:23:03.177071 16736 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:23:03.181072 16736 accounting.cpp:116: sendCounter(0, 12, 18446744073709551530)->true
+D 21-04-21 19:23:05.182085 16736 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:23:08.185071 16736 accounting.cpp:116: sendCounter(0, 0, 142)->true
+D 21-04-21 19:23:08.191073 16736 accounting.cpp:116: sendCounter(1, 0, 142)->true
+D 21-04-21 19:23:08.191073 16736 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:23:08.195071 16736 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:23:08.201084 16736 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:23:08.205071 16736 accounting.cpp:116: sendCounter(0, 12, 18446744073709551529)->true
+D 21-04-21 19:23:10.206072 16736 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:23:13.211071 16736 accounting.cpp:116: sendCounter(0, 0, 143)->true
+D 21-04-21 19:23:13.215072 16736 accounting.cpp:116: sendCounter(1, 0, 143)->true
+D 21-04-21 19:23:13.215072 16736 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:23:13.221085 16736 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:23:13.225071 16736 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:23:13.231071 16736 accounting.cpp:116: sendCounter(0, 12, 18446744073709551529)->true
+D 21-04-21 19:23:15.232084 16736 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:23:18.237073 16736 accounting.cpp:116: sendCounter(0, 0, 144)->true
+D 21-04-21 19:23:18.241071 16736 accounting.cpp:116: sendCounter(1, 0, 144)->true
+D 21-04-21 19:23:18.241071 16736 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:23:18.247072 16736 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:23:18.253072 16736 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:23:18.257073 16736 accounting.cpp:116: sendCounter(0, 12, 18446744073709551529)->true
+D 21-04-21 19:23:20.258072 16736 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:23:23.264072 16736 accounting.cpp:116: sendCounter(0, 0, 145)->true
+D 21-04-21 19:23:23.270072 16736 accounting.cpp:116: sendCounter(1, 0, 145)->true
+D 21-04-21 19:23:23.270072 16736 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:23:23.274071 16736 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:23:23.280071 16736 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:23:23.284072 16736 accounting.cpp:116: sendCounter(0, 12, 18446744073709551528)->true
+D 21-04-21 19:23:25.285071 16736 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 19:23:28.291071 16736 accounting.cpp:116: sendCounter(0, 0, 146)->true
+D 21-04-21 19:23:28.297073 16736 accounting.cpp:116: sendCounter(1, 0, 146)->true
+D 21-04-21 19:23:28.297073 16736 machine.cpp:121: sendGameStart()->(No enviado realmente)
+D 21-04-21 19:23:28.301073 16736 accounting.cpp:177: sendCounters(0,...)->true
+D 21-04-21 19:23:28.307072 16736 accounting.cpp:177: sendCounters(1,...)->true
+D 21-04-21 19:23:28.311071 16736 accounting.cpp:116: sendCounter(0, 12, 18446744073709551527)->true
+D 21-04-21 19:23:30.312072 16736 machine.cpp:150: sendGameEnd()->(No enviado realmente)
+D 21-04-21 20:32:50.044366 15832 enginecom.cpp:158: deinitCOMPort

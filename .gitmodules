@@ -1,0 +1,6 @@
+[submodule "libs/oatpp"]
+	path = libs/oatpp
+	url = https://github.com/oatpp/oatpp
+[submodule "libs/sasapi"]
+	path = libs/sasapi
+	url = https://github.com/jlaube/sasapi.git

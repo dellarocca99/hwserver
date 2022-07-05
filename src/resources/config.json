@@ -1,0 +1,14 @@
+{
+  "logging" : {
+    "severity" : "trace",
+    "filePath" : "sas_server_%N.log",
+    "format" : "[%TimeStamp%]: %Message%",
+    "output" : "console"
+  },
+
+  "sas" : {
+    "port" : 7,
+    "seidFile" : "placa2seid1612492997.bin",
+    "configFile" : "simulator.cfg"
+  }
+}
